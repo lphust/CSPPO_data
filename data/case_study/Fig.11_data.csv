@@ -1,0 +1,1333 @@
+panel,method,row_order,row_label,row_type,col_order,col_label,col_type,value,value_label
+capacity,CSPPO,0,U_FQ,upstream,0,C0,product_color,0.5222543444213298,Production / capacity x 6
+capacity,CSPPO,0,U_FQ,upstream,1,C1,product_color,0.5782644384965514,Production / capacity x 6
+capacity,CSPPO,0,U_FQ,upstream,2,C2,product_color,0.6427166219742391,Production / capacity x 6
+capacity,CSPPO,0,U_FQ,upstream,3,C3,product_color,0.6784266716770236,Production / capacity x 6
+capacity,CSPPO,0,U_FQ,upstream,4,C4,product_color,0.5945782614438864,Production / capacity x 6
+capacity,CSPPO,0,U_FQ,upstream,5,C5,product_color,0.5988156976167816,Production / capacity x 6
+capacity,CSPPO,1,U_BX,upstream,0,C0,product_color,0.510256789279434,Production / capacity x 6
+capacity,CSPPO,1,U_BX,upstream,1,C1,product_color,0.5601398435460012,Production / capacity x 6
+capacity,CSPPO,1,U_BX,upstream,2,C2,product_color,0.5789881462252602,Production / capacity x 6
+capacity,CSPPO,1,U_BX,upstream,3,C3,product_color,0.6754815106271772,Production / capacity x 6
+capacity,CSPPO,1,U_BX,upstream,4,C4,product_color,0.7570308969447096,Production / capacity x 6
+capacity,CSPPO,1,U_BX,upstream,5,C5,product_color,0.6287690616609354,Production / capacity x 6
+capacity,CSPPO,2,U_TL,upstream,0,C0,product_color,0.6528179305266624,Production / capacity x 6
+capacity,CSPPO,2,U_TL,upstream,1,C1,product_color,0.7282270000122582,Production / capacity x 6
+capacity,CSPPO,2,U_TL,upstream,2,C2,product_color,0.8034094667839685,Production / capacity x 6
+capacity,CSPPO,2,U_TL,upstream,3,C3,product_color,0.8540772870653531,Production / capacity x 6
+capacity,CSPPO,2,U_TL,upstream,4,C4,product_color,0.7379148345071526,Production / capacity x 6
+capacity,CSPPO,2,U_TL,upstream,5,C5,product_color,0.6436662718192279,Production / capacity x 6
+capacity,CSPPO,3,U_WS,upstream,0,C0,product_color,0.6243999408603966,Production / capacity x 6
+capacity,CSPPO,3,U_WS,upstream,1,C1,product_color,0.654722594804283,Production / capacity x 6
+capacity,CSPPO,3,U_WS,upstream,2,C2,product_color,0.7043962566266921,Production / capacity x 6
+capacity,CSPPO,3,U_WS,upstream,3,C3,product_color,0.6163980148327703,Production / capacity x 6
+capacity,CSPPO,3,U_WS,upstream,4,C4,product_color,0.6027926392849098,Production / capacity x 6
+capacity,CSPPO,3,U_WS,upstream,5,C5,product_color,0.7686871892110476,Production / capacity x 6
+capacity,CSPPO,4,M_TJ,midstream,0,C0,product_color,,Production / capacity x 6
+capacity,CSPPO,4,M_TJ,midstream,1,C1,product_color,0.304315953194487,Production / capacity x 6
+capacity,CSPPO,4,M_TJ,midstream,2,C2,product_color,0.36919824476601837,Production / capacity x 6
+capacity,CSPPO,4,M_TJ,midstream,3,C3,product_color,0.3454464083867706,Production / capacity x 6
+capacity,CSPPO,4,M_TJ,midstream,4,C4,product_color,0.3754939177626654,Production / capacity x 6
+capacity,CSPPO,4,M_TJ,midstream,5,C5,product_color,0.3342256888088016,Production / capacity x 6
+capacity,CSPPO,5,M_SH,midstream,0,C0,product_color,0.31507244781820865,Production / capacity x 6
+capacity,CSPPO,5,M_SH,midstream,1,C1,product_color,0.31740376733662923,Production / capacity x 6
+capacity,CSPPO,5,M_SH,midstream,2,C2,product_color,0.37596009506833983,Production / capacity x 6
+capacity,CSPPO,5,M_SH,midstream,3,C3,product_color,0.36113838603458337,Production / capacity x 6
+capacity,CSPPO,5,M_SH,midstream,4,C4,product_color,0.3850823183880234,Production / capacity x 6
+capacity,CSPPO,5,M_SH,midstream,5,C5,product_color,0.3421607051896464,Production / capacity x 6
+capacity,CSPPO,6,M_WS,midstream,0,C0,product_color,0.2991742967815104,Production / capacity x 6
+capacity,CSPPO,6,M_WS,midstream,1,C1,product_color,0.3013879809113862,Production / capacity x 6
+capacity,CSPPO,6,M_WS,midstream,2,C2,product_color,0.3569896315557168,Production / capacity x 6
+capacity,CSPPO,6,M_WS,midstream,3,C3,product_color,0.34291580692274637,Production / capacity x 6
+capacity,CSPPO,6,M_WS,midstream,4,C4,product_color,0.365651559203307,Production / capacity x 6
+capacity,CSPPO,6,M_WS,midstream,5,C5,product_color,0.3248957154782418,Production / capacity x 6
+capacity,CSPPO,7,M_HB,midstream,0,C0,product_color,0.2848034790321798,Production / capacity x 6
+capacity,CSPPO,7,M_HB,midstream,1,C1,product_color,0.28691082898987863,Production / capacity x 6
+capacity,CSPPO,7,M_HB,midstream,2,C2,product_color,0.3398416579875384,Production / capacity x 6
+capacity,CSPPO,7,M_HB,midstream,3,C3,product_color,0.3264438685989462,Production / capacity x 6
+capacity,CSPPO,7,M_HB,midstream,4,C4,product_color,0.3480875105079516,Production / capacity x 6
+capacity,CSPPO,7,M_HB,midstream,5,C5,product_color,0.30928937106662335,Production / capacity x 6
+capacity,CSPPO,8,M_GZ,midstream,0,C0,product_color,0.271749986243205,Production / capacity x 6
+capacity,CSPPO,8,M_GZ,midstream,1,C1,product_color,0.27376074932784245,Production / capacity x 6
+capacity,CSPPO,8,M_GZ,midstream,2,C2,product_color,0.32426558199644284,Production / capacity x 6
+capacity,CSPPO,8,M_GZ,midstream,3,C3,product_color,0.3114818579548278,Production / capacity x 6
+capacity,CSPPO,8,M_GZ,midstream,4,C4,product_color,,Production / capacity x 6
+capacity,CSPPO,8,M_GZ,midstream,5,C5,product_color,0.2951136082260696,Production / capacity x 6
+capacity,CSPPO,9,M_FQ,midstream,0,C0,product_color,0.32128077191314863,Production / capacity x 6
+capacity,CSPPO,9,M_FQ,midstream,1,C1,product_color,0.32365802876198163,Production / capacity x 6
+capacity,CSPPO,9,M_FQ,midstream,2,C2,product_color,0.3833681757593412,Production / capacity x 6
+capacity,CSPPO,9,M_FQ,midstream,3,C3,product_color,0.3682544133456096,Production / capacity x 6
+capacity,CSPPO,9,M_FQ,midstream,4,C4,product_color,0.39267014732177763,Production / capacity x 6
+capacity,CSPPO,9,M_FQ,midstream,5,C5,product_color,0.3489027880505256,Production / capacity x 6
+capacity,CSPPO,10,M_ZZ,midstream,0,C0,product_color,0.3047663397120054,Production / capacity x 6
+capacity,CSPPO,10,M_ZZ,midstream,1,C1,product_color,0.30702140111533743,Production / capacity x 6
+capacity,CSPPO,10,M_ZZ,midstream,2,C2,product_color,0.36366233494928163,Production / capacity x 6
+capacity,CSPPO,10,M_ZZ,midstream,3,C3,product_color,0.34932544817363875,Production / capacity x 6
+capacity,CSPPO,10,M_ZZ,midstream,4,C4,product_color,0.3724861677865458,Production / capacity x 6
+capacity,CSPPO,10,M_ZZ,midstream,5,C5,product_color,0.3309685325899848,Production / capacity x 6
+capacity,CSPPO,11,M_SY,midstream,0,C0,product_color,0.2898666519927522,Production / capacity x 6
+capacity,CSPPO,11,M_SY,midstream,1,C1,product_color,0.2920114659496986,Production / capacity x 6
+capacity,CSPPO,11,M_SY,midstream,2,C2,product_color,0.34588328746287245,Production / capacity x 6
+capacity,CSPPO,11,M_SY,midstream,3,C3,product_color,0.3322473151518168,Production / capacity x 6
+capacity,CSPPO,11,M_SY,midstream,4,C4,product_color,0.3542757329169816,Production / capacity x 6
+capacity,CSPPO,11,M_SY,midstream,5,C5,product_color,0.3147878487744744,Production / capacity x 6
+capacity,CSPPO,12,M_SZ,midstream,0,C0,product_color,0.27635591821342864,Production / capacity x 6
+capacity,CSPPO,12,M_SZ,midstream,1,C1,product_color,0.2784007620283146,Production / capacity x 6
+capacity,CSPPO,12,M_SZ,midstream,2,C2,product_color,,Production / capacity x 6
+capacity,CSPPO,12,M_SZ,midstream,3,C3,product_color,0.316761211479486,Production / capacity x 6
+capacity,CSPPO,12,M_SZ,midstream,4,C4,product_color,0.33776288095898643,Production / capacity x 6
+capacity,CSPPO,12,M_SZ,midstream,5,C5,product_color,0.30011553378922323,Production / capacity x 6
+capacity,CSPPO,13,M_CC,midstream,0,C0,product_color,0.2640485696290254,Production / capacity x 6
+capacity,CSPPO,13,M_CC,midstream,1,C1,product_color,0.2660023475250294,Production / capacity x 6
+capacity,CSPPO,13,M_CC,midstream,2,C2,product_color,0.315075869146341,Production / capacity x 6
+capacity,CSPPO,13,M_CC,midstream,3,C3,product_color,0.3026544368791848,Production / capacity x 6
+capacity,CSPPO,13,M_CC,midstream,4,C4,product_color,0.3227208093373314,Production / capacity x 6
+capacity,CSPPO,13,M_CC,midstream,5,C5,product_color,0.2867500646731044,Production / capacity x 6
+capacity,CSPPO,14,M_CQ,midstream,0,C0,product_color,0.3105714128493774,Production / capacity x 6
+capacity,CSPPO,14,M_CQ,midstream,1,C1,product_color,0.3128694278032488,Production / capacity x 6
+capacity,CSPPO,14,M_CQ,midstream,2,C2,product_color,0.3705892365673632,Production / capacity x 6
+capacity,CSPPO,14,M_CQ,midstream,3,C3,product_color,0.35597926623408904,Production / capacity x 6
+capacity,CSPPO,14,M_CQ,midstream,4,C4,product_color,0.3795811424110518,Production / capacity x 6
+capacity,CSPPO,14,M_CQ,midstream,5,C5,product_color,0.33727269511550817,Production / capacity x 6
+capacity,CSPPO,15,D_OEM1,downstream,0,C0,product_color,0.4793306120469798,Production / capacity x 6
+capacity,CSPPO,15,D_OEM1,downstream,1,C1,product_color,0.5365774515263976,Production / capacity x 6
+capacity,CSPPO,15,D_OEM1,downstream,2,C2,product_color,0.5866477507084285,Production / capacity x 6
+capacity,CSPPO,15,D_OEM1,downstream,3,C3,product_color,0.6267916397304132,Production / capacity x 6
+capacity,CSPPO,15,D_OEM1,downstream,4,C4,product_color,0.6268629396095484,Production / capacity x 6
+capacity,CSPPO,15,D_OEM1,downstream,5,C5,product_color,,Production / capacity x 6
+capacity,CSPPO,16,D_OEM2,downstream,0,C0,product_color,0.4537973555749878,Production / capacity x 6
+capacity,CSPPO,16,D_OEM2,downstream,1,C1,product_color,0.5237951202638124,Production / capacity x 6
+capacity,CSPPO,16,D_OEM2,downstream,2,C2,product_color,0.5672711779628058,Production / capacity x 6
+capacity,CSPPO,16,D_OEM2,downstream,3,C3,product_color,0.6029049819598458,Production / capacity x 6
+capacity,CSPPO,16,D_OEM2,downstream,4,C4,product_color,0.5923870993870872,Production / capacity x 6
+capacity,CSPPO,16,D_OEM2,downstream,5,C5,product_color,0.6563813815863864,Production / capacity x 6
+capacity,CSPPO,17,D_OEM3,downstream,0,C0,product_color,0.4590997459363344,Production / capacity x 6
+capacity,CSPPO,17,D_OEM3,downstream,1,C1,product_color,0.5058105658748875,Production / capacity x 6
+capacity,CSPPO,17,D_OEM3,downstream,2,C2,product_color,0.5447805901535706,Production / capacity x 6
+capacity,CSPPO,17,D_OEM3,downstream,3,C3,product_color,0.5756901622218624,Production / capacity x 6
+capacity,CSPPO,17,D_OEM3,downstream,4,C4,product_color,0.5195520495913464,Production / capacity x 6
+capacity,CSPPO,17,D_OEM3,downstream,5,C5,product_color,0.649280840212053,Production / capacity x 6
+capacity,CSPPO,18,D_OEM4,downstream,0,C0,product_color,0.43874897103785526,Production / capacity x 6
+capacity,CSPPO,18,D_OEM4,downstream,1,C1,product_color,0.47636187360982374,Production / capacity x 6
+capacity,CSPPO,18,D_OEM4,downstream,2,C2,product_color,0.5003098331282267,Production / capacity x 6
+capacity,CSPPO,18,D_OEM4,downstream,3,C3,product_color,0.5484725487176982,Production / capacity x 6
+capacity,CSPPO,18,D_OEM4,downstream,4,C4,product_color,0.5324946550530576,Production / capacity x 6
+capacity,CSPPO,18,D_OEM4,downstream,5,C5,product_color,0.6080313889051452,Production / capacity x 6
+capacity,CSPPO,19,D_RS1,downstream,0,C0,product_color,0.49750198507754817,Production / capacity x 6
+capacity,CSPPO,19,D_RS1,downstream,1,C1,product_color,0.549512687734689,Production / capacity x 6
+capacity,CSPPO,19,D_RS1,downstream,2,C2,product_color,0.5906647134263496,Production / capacity x 6
+capacity,CSPPO,19,D_RS1,downstream,3,C3,product_color,0.6283895274268494,Production / capacity x 6
+capacity,CSPPO,19,D_RS1,downstream,4,C4,product_color,0.6253767507084755,Production / capacity x 6
+capacity,CSPPO,19,D_RS1,downstream,5,C5,product_color,0.732981760881777,Production / capacity x 6
+capacity,CSPPO,20,D_RS2,downstream,0,C0,product_color,0.365461369335573,Production / capacity x 6
+capacity,CSPPO,20,D_RS2,downstream,1,C1,product_color,0.414287961276843,Production / capacity x 6
+capacity,CSPPO,20,D_RS2,downstream,2,C2,product_color,0.4624910076152886,Production / capacity x 6
+capacity,CSPPO,20,D_RS2,downstream,3,C3,product_color,0.509933782103709,Production / capacity x 6
+capacity,CSPPO,20,D_RS2,downstream,4,C4,product_color,0.5489253638861952,Production / capacity x 6
+capacity,CSPPO,20,D_RS2,downstream,5,C5,product_color,,Production / capacity x 6
+capacity,CSPPO,21,D_RS3,downstream,0,C0,product_color,0.3764314944884292,Production / capacity x 6
+capacity,CSPPO,21,D_RS3,downstream,1,C1,product_color,0.42207300564954237,Production / capacity x 6
+capacity,CSPPO,21,D_RS3,downstream,2,C2,product_color,0.4662756748495134,Production / capacity x 6
+capacity,CSPPO,21,D_RS3,downstream,3,C3,product_color,0.5004999903738492,Production / capacity x 6
+capacity,CSPPO,21,D_RS3,downstream,4,C4,product_color,0.5371265876183562,Production / capacity x 6
+capacity,CSPPO,21,D_RS3,downstream,5,C5,product_color,0.599690045816586,Production / capacity x 6
+capacity,CSPPO,22,D_IC1,downstream,0,C0,product_color,0.385919653770741,Production / capacity x 6
+capacity,CSPPO,22,D_IC1,downstream,1,C1,product_color,0.42906834741112077,Production / capacity x 6
+capacity,CSPPO,22,D_IC1,downstream,2,C2,product_color,0.46761983221540737,Production / capacity x 6
+capacity,CSPPO,22,D_IC1,downstream,3,C3,product_color,0.5043597934110756,Production / capacity x 6
+capacity,CSPPO,22,D_IC1,downstream,4,C4,product_color,0.520418535951243,Production / capacity x 6
+capacity,CSPPO,22,D_IC1,downstream,5,C5,product_color,0.587593624308069,Production / capacity x 6
+capacity,CSPPO,23,D_IC2,downstream,0,C0,product_color,0.48428511437018884,Production / capacity x 6
+capacity,CSPPO,23,D_IC2,downstream,1,C1,product_color,0.5319792303091164,Production / capacity x 6
+capacity,CSPPO,23,D_IC2,downstream,2,C2,product_color,0.576050469048492,Production / capacity x 6
+capacity,CSPPO,23,D_IC2,downstream,3,C3,product_color,0.5711398940937624,Production / capacity x 6
+capacity,CSPPO,23,D_IC2,downstream,4,C4,product_color,0.621908017028016,Production / capacity x 6
+capacity,CSPPO,23,D_IC2,downstream,5,C5,product_color,0.5499123218316913,Production / capacity x 6
+capacity,Random,0,U_FQ,upstream,0,C0,product_color,0.418328011521375,Production / capacity x 6
+capacity,Random,0,U_FQ,upstream,1,C1,product_color,0.461473553795412,Production / capacity x 6
+capacity,Random,0,U_FQ,upstream,2,C2,product_color,0.48712305847361337,Production / capacity x 6
+capacity,Random,0,U_FQ,upstream,3,C3,product_color,0.5709006471550098,Production / capacity x 6
+capacity,Random,0,U_FQ,upstream,4,C4,product_color,0.5510337849841986,Production / capacity x 6
+capacity,Random,0,U_FQ,upstream,5,C5,product_color,0.6076292006383794,Production / capacity x 6
+capacity,Random,1,U_BX,upstream,0,C0,product_color,0.4275249946676454,Production / capacity x 6
+capacity,Random,1,U_BX,upstream,1,C1,product_color,0.4953555419171982,Production / capacity x 6
+capacity,Random,1,U_BX,upstream,2,C2,product_color,0.5346365718598765,Production / capacity x 6
+capacity,Random,1,U_BX,upstream,3,C3,product_color,0.548856222889836,Production / capacity x 6
+capacity,Random,1,U_BX,upstream,4,C4,product_color,0.5935493714938049,Production / capacity x 6
+capacity,Random,1,U_BX,upstream,5,C5,product_color,0.588865361474499,Production / capacity x 6
+capacity,Random,2,U_TL,upstream,0,C0,product_color,0.524850569097297,Production / capacity x 6
+capacity,Random,2,U_TL,upstream,1,C1,product_color,0.5582853519948978,Production / capacity x 6
+capacity,Random,2,U_TL,upstream,2,C2,product_color,0.5707136290532435,Production / capacity x 6
+capacity,Random,2,U_TL,upstream,3,C3,product_color,0.6217361916541254,Production / capacity x 6
+capacity,Random,2,U_TL,upstream,4,C4,product_color,0.6631727913774984,Production / capacity x 6
+capacity,Random,2,U_TL,upstream,5,C5,product_color,0.687812540233623,Production / capacity x 6
+capacity,Random,3,U_WS,upstream,0,C0,product_color,0.509092473897399,Production / capacity x 6
+capacity,Random,3,U_WS,upstream,1,C1,product_color,0.5219040234347262,Production / capacity x 6
+capacity,Random,3,U_WS,upstream,2,C2,product_color,0.5495752700310785,Production / capacity x 6
+capacity,Random,3,U_WS,upstream,3,C3,product_color,0.5959621906321295,Production / capacity x 6
+capacity,Random,3,U_WS,upstream,4,C4,product_color,0.6972866134603986,Production / capacity x 6
+capacity,Random,3,U_WS,upstream,5,C5,product_color,0.6544252786348446,Production / capacity x 6
+capacity,Random,4,M_TJ,midstream,0,C0,product_color,,Production / capacity x 6
+capacity,Random,4,M_TJ,midstream,1,C1,product_color,0.22781627773964158,Production / capacity x 6
+capacity,Random,4,M_TJ,midstream,2,C2,product_color,0.2711043558888912,Production / capacity x 6
+capacity,Random,4,M_TJ,midstream,3,C3,product_color,0.27328462859627456,Production / capacity x 6
+capacity,Random,4,M_TJ,midstream,4,C4,product_color,0.3112985543137896,Production / capacity x 6
+capacity,Random,4,M_TJ,midstream,5,C5,product_color,0.2986428794336592,Production / capacity x 6
+capacity,Random,5,M_SH,midstream,0,C0,product_color,0.25614867862709156,Production / capacity x 6
+capacity,Random,5,M_SH,midstream,1,C1,product_color,0.2513300244453678,Production / capacity x 6
+capacity,Random,5,M_SH,midstream,2,C2,product_color,0.2821117395530382,Production / capacity x 6
+capacity,Random,5,M_SH,midstream,3,C3,product_color,0.2861605558509504,Production / capacity x 6
+capacity,Random,5,M_SH,midstream,4,C4,product_color,0.32186505652804265,Production / capacity x 6
+capacity,Random,5,M_SH,midstream,5,C5,product_color,0.307361473378806,Production / capacity x 6
+capacity,Random,6,M_WS,midstream,0,C0,product_color,0.23921810071855082,Production / capacity x 6
+capacity,Random,6,M_WS,midstream,1,C1,product_color,0.2435460481196904,Production / capacity x 6
+capacity,Random,6,M_WS,midstream,2,C2,product_color,0.2705107784977338,Production / capacity x 6
+capacity,Random,6,M_WS,midstream,3,C3,product_color,0.2778376910536572,Production / capacity x 6
+capacity,Random,6,M_WS,midstream,4,C4,product_color,0.3051682186384416,Production / capacity x 6
+capacity,Random,6,M_WS,midstream,5,C5,product_color,0.2916812770806384,Production / capacity x 6
+capacity,Random,7,M_HB,midstream,0,C0,product_color,0.2275671279120888,Production / capacity x 6
+capacity,Random,7,M_HB,midstream,1,C1,product_color,0.2270037930771162,Production / capacity x 6
+capacity,Random,7,M_HB,midstream,2,C2,product_color,0.26610201005938083,Production / capacity x 6
+capacity,Random,7,M_HB,midstream,3,C3,product_color,0.2640402911850618,Production / capacity x 6
+capacity,Random,7,M_HB,midstream,4,C4,product_color,0.3016942472094348,Production / capacity x 6
+capacity,Random,7,M_HB,midstream,5,C5,product_color,0.27343317881952656,Production / capacity x 6
+capacity,Random,8,M_GZ,midstream,0,C0,product_color,0.222676842854094,Production / capacity x 6
+capacity,Random,8,M_GZ,midstream,1,C1,product_color,0.22135368881428502,Production / capacity x 6
+capacity,Random,8,M_GZ,midstream,2,C2,product_color,0.25517161888196277,Production / capacity x 6
+capacity,Random,8,M_GZ,midstream,3,C3,product_color,0.25961109587927583,Production / capacity x 6
+capacity,Random,8,M_GZ,midstream,4,C4,product_color,,Production / capacity x 6
+capacity,Random,8,M_GZ,midstream,5,C5,product_color,0.2750509818470058,Production / capacity x 6
+capacity,Random,9,M_FQ,midstream,0,C0,product_color,0.24714078382076882,Production / capacity x 6
+capacity,Random,9,M_FQ,midstream,1,C1,product_color,0.24866271073123503,Production / capacity x 6
+capacity,Random,9,M_FQ,midstream,2,C2,product_color,0.2923182847254846,Production / capacity x 6
+capacity,Random,9,M_FQ,midstream,3,C3,product_color,0.284742843801219,Production / capacity x 6
+capacity,Random,9,M_FQ,midstream,4,C4,product_color,0.33759924151572485,Production / capacity x 6
+capacity,Random,9,M_FQ,midstream,5,C5,product_color,0.313523379195951,Production / capacity x 6
+capacity,Random,10,M_ZZ,midstream,0,C0,product_color,0.23775896145703018,Production / capacity x 6
+capacity,Random,10,M_ZZ,midstream,1,C1,product_color,0.24272147505348418,Production / capacity x 6
+capacity,Random,10,M_ZZ,midstream,2,C2,product_color,0.2729479758406536,Production / capacity x 6
+capacity,Random,10,M_ZZ,midstream,3,C3,product_color,0.2705836269905526,Production / capacity x 6
+capacity,Random,10,M_ZZ,midstream,4,C4,product_color,0.32154695550014223,Production / capacity x 6
+capacity,Random,10,M_ZZ,midstream,5,C5,product_color,0.30235939220250896,Production / capacity x 6
+capacity,Random,11,M_SY,midstream,0,C0,product_color,0.2377633312537386,Production / capacity x 6
+capacity,Random,11,M_SY,midstream,1,C1,product_color,0.2231463455002182,Production / capacity x 6
+capacity,Random,11,M_SY,midstream,2,C2,product_color,0.25763308877756097,Production / capacity x 6
+capacity,Random,11,M_SY,midstream,3,C3,product_color,0.2589844737691524,Production / capacity x 6
+capacity,Random,11,M_SY,midstream,4,C4,product_color,0.29796520988562236,Production / capacity x 6
+capacity,Random,11,M_SY,midstream,5,C5,product_color,0.2720523859327728,Production / capacity x 6
+capacity,Random,12,M_SZ,midstream,0,C0,product_color,0.2233917634150968,Production / capacity x 6
+capacity,Random,12,M_SZ,midstream,1,C1,product_color,0.22687908641526,Production / capacity x 6
+capacity,Random,12,M_SZ,midstream,2,C2,product_color,,Production / capacity x 6
+capacity,Random,12,M_SZ,midstream,3,C3,product_color,0.26463280178329496,Production / capacity x 6
+capacity,Random,12,M_SZ,midstream,4,C4,product_color,0.2847357192293784,Production / capacity x 6
+capacity,Random,12,M_SZ,midstream,5,C5,product_color,0.2762779040400276,Production / capacity x 6
+capacity,Random,13,M_CC,midstream,0,C0,product_color,0.21622015592880722,Production / capacity x 6
+capacity,Random,13,M_CC,midstream,1,C1,product_color,0.20890221116694419,Production / capacity x 6
+capacity,Random,13,M_CC,midstream,2,C2,product_color,0.23873045614681862,Production / capacity x 6
+capacity,Random,13,M_CC,midstream,3,C3,product_color,0.2386755171060732,Production / capacity x 6
+capacity,Random,13,M_CC,midstream,4,C4,product_color,0.2792291688306696,Production / capacity x 6
+capacity,Random,13,M_CC,midstream,5,C5,product_color,0.2592153822502956,Production / capacity x 6
+capacity,Random,14,M_CQ,midstream,0,C0,product_color,0.2436526699161516,Production / capacity x 6
+capacity,Random,14,M_CQ,midstream,1,C1,product_color,0.2463022021439496,Production / capacity x 6
+capacity,Random,14,M_CQ,midstream,2,C2,product_color,0.276203356039167,Production / capacity x 6
+capacity,Random,14,M_CQ,midstream,3,C3,product_color,0.2761550528615928,Production / capacity x 6
+capacity,Random,14,M_CQ,midstream,4,C4,product_color,0.31815118544412957,Production / capacity x 6
+capacity,Random,14,M_CQ,midstream,5,C5,product_color,0.29553502418187,Production / capacity x 6
+capacity,Random,15,D_OEM1,downstream,0,C0,product_color,0.3714346997932356,Production / capacity x 6
+capacity,Random,15,D_OEM1,downstream,1,C1,product_color,0.397554162216756,Production / capacity x 6
+capacity,Random,15,D_OEM1,downstream,2,C2,product_color,0.42244625671478153,Production / capacity x 6
+capacity,Random,15,D_OEM1,downstream,3,C3,product_color,0.4641762974252454,Production / capacity x 6
+capacity,Random,15,D_OEM1,downstream,4,C4,product_color,0.48892675631013904,Production / capacity x 6
+capacity,Random,15,D_OEM1,downstream,5,C5,product_color,,Production / capacity x 6
+capacity,Random,16,D_OEM2,downstream,0,C0,product_color,0.3520264108312962,Production / capacity x 6
+capacity,Random,16,D_OEM2,downstream,1,C1,product_color,0.3803394359274894,Production / capacity x 6
+capacity,Random,16,D_OEM2,downstream,2,C2,product_color,0.380971995370662,Production / capacity x 6
+capacity,Random,16,D_OEM2,downstream,3,C3,product_color,0.40393488963011226,Production / capacity x 6
+capacity,Random,16,D_OEM2,downstream,4,C4,product_color,0.4323816179030982,Production / capacity x 6
+capacity,Random,16,D_OEM2,downstream,5,C5,product_color,0.5289175093747229,Production / capacity x 6
+capacity,Random,17,D_OEM3,downstream,0,C0,product_color,0.3249256531075062,Production / capacity x 6
+capacity,Random,17,D_OEM3,downstream,1,C1,product_color,0.3467964565705314,Production / capacity x 6
+capacity,Random,17,D_OEM3,downstream,2,C2,product_color,0.3733818386048034,Production / capacity x 6
+capacity,Random,17,D_OEM3,downstream,3,C3,product_color,0.4015608479858448,Production / capacity x 6
+capacity,Random,17,D_OEM3,downstream,4,C4,product_color,0.41666742712683247,Production / capacity x 6
+capacity,Random,17,D_OEM3,downstream,5,C5,product_color,0.531305207956719,Production / capacity x 6
+capacity,Random,18,D_OEM4,downstream,0,C0,product_color,0.30944911270221,Production / capacity x 6
+capacity,Random,18,D_OEM4,downstream,1,C1,product_color,0.3413448649995774,Production / capacity x 6
+capacity,Random,18,D_OEM4,downstream,2,C2,product_color,0.34387858552579376,Production / capacity x 6
+capacity,Random,18,D_OEM4,downstream,3,C3,product_color,0.39733170759272096,Production / capacity x 6
+capacity,Random,18,D_OEM4,downstream,4,C4,product_color,0.4014814485168966,Production / capacity x 6
+capacity,Random,18,D_OEM4,downstream,5,C5,product_color,0.4697989112752104,Production / capacity x 6
+capacity,Random,19,D_RS1,downstream,0,C0,product_color,0.3700788840668862,Production / capacity x 6
+capacity,Random,19,D_RS1,downstream,1,C1,product_color,0.4060968917376774,Production / capacity x 6
+capacity,Random,19,D_RS1,downstream,2,C2,product_color,0.4346454869960682,Production / capacity x 6
+capacity,Random,19,D_RS1,downstream,3,C3,product_color,0.41825277831902397,Production / capacity x 6
+capacity,Random,19,D_RS1,downstream,4,C4,product_color,0.42027039058653415,Production / capacity x 6
+capacity,Random,19,D_RS1,downstream,5,C5,product_color,0.5464678773188658,Production / capacity x 6
+capacity,Random,20,D_RS2,downstream,0,C0,product_color,0.320165562603759,Production / capacity x 6
+capacity,Random,20,D_RS2,downstream,1,C1,product_color,0.353810023782339,Production / capacity x 6
+capacity,Random,20,D_RS2,downstream,2,C2,product_color,0.37264476604379637,Production / capacity x 6
+capacity,Random,20,D_RS2,downstream,3,C3,product_color,0.4163710690619826,Production / capacity x 6
+capacity,Random,20,D_RS2,downstream,4,C4,product_color,0.4350166431978138,Production / capacity x 6
+capacity,Random,20,D_RS2,downstream,5,C5,product_color,,Production / capacity x 6
+capacity,Random,21,D_RS3,downstream,0,C0,product_color,0.2996537177610954,Production / capacity x 6
+capacity,Random,21,D_RS3,downstream,1,C1,product_color,0.34306620466205395,Production / capacity x 6
+capacity,Random,21,D_RS3,downstream,2,C2,product_color,0.3639290647232628,Production / capacity x 6
+capacity,Random,21,D_RS3,downstream,3,C3,product_color,0.39031041704418,Production / capacity x 6
+capacity,Random,21,D_RS3,downstream,4,C4,product_color,0.390147776007525,Production / capacity x 6
+capacity,Random,21,D_RS3,downstream,5,C5,product_color,0.4576860593753124,Production / capacity x 6
+capacity,Random,22,D_IC1,downstream,0,C0,product_color,0.297657988216443,Production / capacity x 6
+capacity,Random,22,D_IC1,downstream,1,C1,product_color,0.33894380833782844,Production / capacity x 6
+capacity,Random,22,D_IC1,downstream,2,C2,product_color,0.33155906748254105,Production / capacity x 6
+capacity,Random,22,D_IC1,downstream,3,C3,product_color,0.38012672875885556,Production / capacity x 6
+capacity,Random,22,D_IC1,downstream,4,C4,product_color,0.3907517122440852,Production / capacity x 6
+capacity,Random,22,D_IC1,downstream,5,C5,product_color,0.4571352968519754,Production / capacity x 6
+capacity,Random,23,D_IC2,downstream,0,C0,product_color,0.3680917173415938,Production / capacity x 6
+capacity,Random,23,D_IC2,downstream,1,C1,product_color,0.3776937280398606,Production / capacity x 6
+capacity,Random,23,D_IC2,downstream,2,C2,product_color,0.39741218619614394,Production / capacity x 6
+capacity,Random,23,D_IC2,downstream,3,C3,product_color,0.4302388266733056,Production / capacity x 6
+capacity,Random,23,D_IC2,downstream,4,C4,product_color,0.45227434476414957,Production / capacity x 6
+capacity,Random,23,D_IC2,downstream,5,C5,product_color,0.497282421129831,Production / capacity x 6
+capacity,Rule-based,0,U_FQ,upstream,0,C0,product_color,0.5222603197285782,Production / capacity x 6
+capacity,Rule-based,0,U_FQ,upstream,1,C1,product_color,0.5827297050338975,Production / capacity x 6
+capacity,Rule-based,0,U_FQ,upstream,2,C2,product_color,0.642693876380022,Production / capacity x 6
+capacity,Rule-based,0,U_FQ,upstream,3,C3,product_color,0.7030206006687343,Production / capacity x 6
+capacity,Rule-based,0,U_FQ,upstream,4,C4,product_color,0.7634614942827318,Production / capacity x 6
+capacity,Rule-based,0,U_FQ,upstream,5,C5,product_color,0.8237298552240113,Production / capacity x 6
+capacity,Rule-based,1,U_BX,upstream,0,C0,product_color,0.5453984351595912,Production / capacity x 6
+capacity,Rule-based,1,U_BX,upstream,1,C1,product_color,0.6085468438645134,Production / capacity x 6
+capacity,Rule-based,1,U_BX,upstream,2,C2,product_color,0.6711676557133139,Production / capacity x 6
+capacity,Rule-based,1,U_BX,upstream,3,C3,product_color,0.734167082976843,Production / capacity x 6
+capacity,Rule-based,1,U_BX,upstream,4,C4,product_color,0.7972857377003209,Production / capacity x 6
+capacity,Rule-based,1,U_BX,upstream,5,C5,product_color,0.8602242158984927,Production / capacity x 6
+capacity,Rule-based,2,U_TL,upstream,0,C0,product_color,0.6528253996607225,Production / capacity x 6
+capacity,Rule-based,2,U_TL,upstream,1,C1,product_color,0.728412131292372,Production / capacity x 6
+capacity,Rule-based,2,U_TL,upstream,2,C2,product_color,0.8033673454750277,Production / capacity x 6
+capacity,Rule-based,2,U_TL,upstream,3,C3,product_color,0.8787757508359182,Production / capacity x 6
+capacity,Rule-based,2,U_TL,upstream,4,C4,product_color,0.9543268678534146,Production / capacity x 6
+capacity,Rule-based,2,U_TL,upstream,5,C5,product_color,1.0296623190300145,Production / capacity x 6
+capacity,Rule-based,3,U_WS,upstream,0,C0,product_color,0.6244416866319954,Production / capacity x 6
+capacity,Rule-based,3,U_WS,upstream,1,C1,product_color,0.696742038627486,Production / capacity x 6
+capacity,Rule-based,3,U_WS,upstream,2,C2,product_color,0.768438330454374,Production / capacity x 6
+capacity,Rule-based,3,U_WS,upstream,3,C3,product_color,0.840568109495226,Production / capacity x 6
+capacity,Rule-based,3,U_WS,upstream,4,C4,product_color,0.9128343953380488,Production / capacity x 6
+capacity,Rule-based,3,U_WS,upstream,5,C5,product_color,0.9848943921156661,Production / capacity x 6
+capacity,Rule-based,4,M_TJ,midstream,0,C0,product_color,,Production / capacity x 6
+capacity,Rule-based,4,M_TJ,midstream,1,C1,product_color,0.3398309441837184,Production / capacity x 6
+capacity,Rule-based,4,M_TJ,midstream,2,C2,product_color,0.412268624461176,Production / capacity x 6
+capacity,Rule-based,4,M_TJ,midstream,3,C3,product_color,0.4099689526810074,Production / capacity x 6
+capacity,Rule-based,4,M_TJ,midstream,4,C4,product_color,0.48975632374544764,Production / capacity x 6
+capacity,Rule-based,4,M_TJ,midstream,5,C5,product_color,0.48037006269180416,Production / capacity x 6
+capacity,Rule-based,5,M_SH,midstream,0,C0,product_color,0.31722360130874283,Production / capacity x 6
+capacity,Rule-based,5,M_SH,midstream,1,C1,product_color,0.32177229497588755,Production / capacity x 6
+capacity,Rule-based,5,M_SH,midstream,2,C2,product_color,0.39036062992459136,Production / capacity x 6
+capacity,Rule-based,5,M_SH,midstream,3,C3,product_color,0.3881831629250118,Production / capacity x 6
+capacity,Rule-based,5,M_SH,midstream,4,C4,product_color,0.4637306253821628,Production / capacity x 6
+capacity,Rule-based,5,M_SH,midstream,5,C5,product_color,0.4548431511477954,Production / capacity x 6
+capacity,Rule-based,6,M_WS,midstream,0,C0,product_color,0.3012169058298612,Production / capacity x 6
+capacity,Rule-based,6,M_WS,midstream,1,C1,product_color,0.3055360782569208,Production / capacity x 6
+capacity,Rule-based,6,M_WS,midstream,2,C2,product_color,0.37066353391922224,Production / capacity x 6
+capacity,Rule-based,6,M_WS,midstream,3,C3,product_color,0.3685959391076946,Production / capacity x 6
+capacity,Rule-based,6,M_WS,midstream,4,C4,product_color,0.44033137364269614,Production / capacity x 6
+capacity,Rule-based,6,M_WS,midstream,5,C5,product_color,0.4318923499430898,Production / capacity x 6
+capacity,Rule-based,7,M_HB,midstream,0,C0,product_color,0.28674797148868925,Production / capacity x 6
+capacity,Rule-based,7,M_HB,midstream,1,C1,product_color,0.2908596727511298,Production / capacity x 6
+capacity,Rule-based,7,M_HB,midstream,2,C2,product_color,0.3528587353466832,Production / capacity x 6
+capacity,Rule-based,7,M_HB,midstream,3,C3,product_color,0.3508904573164956,Production / capacity x 6
+capacity,Rule-based,7,M_HB,midstream,4,C4,product_color,0.4191800849524356,Production / capacity x 6
+capacity,Rule-based,7,M_HB,midstream,5,C5,product_color,0.4111464292034652,Production / capacity x 6
+capacity,Rule-based,8,M_GZ,midstream,0,C0,product_color,0.2736053561287908,Production / capacity x 6
+capacity,Rule-based,8,M_GZ,midstream,1,C1,product_color,0.2775286044167034,Production / capacity x 6
+capacity,Rule-based,8,M_GZ,midstream,2,C2,product_color,0.33668604330996,Production / capacity x 6
+capacity,Rule-based,8,M_GZ,midstream,3,C3,product_color,0.33480797802282236,Production / capacity x 6
+capacity,Rule-based,8,M_GZ,midstream,4,C4,product_color,,Production / capacity x 6
+capacity,Rule-based,8,M_GZ,midstream,5,C5,product_color,0.392302217864973,Production / capacity x 6
+capacity,Rule-based,9,M_FQ,midstream,0,C0,product_color,0.32347431266458015,Production / capacity x 6
+capacity,Rule-based,9,M_FQ,midstream,1,C1,product_color,0.3281126357635902,Production / capacity x 6
+capacity,Rule-based,9,M_FQ,midstream,2,C2,product_color,0.39805246499699753,Production / capacity x 6
+capacity,Rule-based,9,M_FQ,midstream,3,C3,product_color,0.39583209224373117,Production / capacity x 6
+capacity,Rule-based,9,M_FQ,midstream,4,C4,product_color,0.47286817465077724,Production / capacity x 6
+capacity,Rule-based,9,M_FQ,midstream,5,C5,product_color,0.4638055777713972,Production / capacity x 6
+capacity,Rule-based,10,M_ZZ,midstream,0,C0,product_color,0.3068471283687372,Production / capacity x 6
+capacity,Rule-based,10,M_ZZ,midstream,1,C1,product_color,0.3112470329906952,Production / capacity x 6
+capacity,Rule-based,10,M_ZZ,midstream,2,C2,product_color,0.3775918242728526,Production / capacity x 6
+capacity,Rule-based,10,M_ZZ,midstream,3,C3,product_color,0.37548558282933353,Production / capacity x 6
+capacity,Rule-based,10,M_ZZ,midstream,4,C4,product_color,0.44856186660798,Production / capacity x 6
+capacity,Rule-based,10,M_ZZ,midstream,5,C5,product_color,0.43996510414763335,Production / capacity x 6
+capacity,Rule-based,11,M_SY,midstream,0,C0,product_color,0.2918457132040434,Production / capacity x 6
+capacity,Rule-based,11,M_SY,midstream,1,C1,product_color,0.296030511377817,Production / capacity x 6
+capacity,Rule-based,11,M_SY,midstream,2,C2,product_color,0.35913177953062436,Production / capacity x 6
+capacity,Rule-based,11,M_SY,midstream,3,C3,product_color,0.357128509891011,Production / capacity x 6
+capacity,Rule-based,11,M_SY,midstream,4,C4,product_color,0.4266321753515898,Production / capacity x 6
+capacity,Rule-based,11,M_SY,midstream,5,C5,product_color,0.4184556990559716,Production / capacity x 6
+capacity,Rule-based,12,M_SZ,midstream,0,C0,product_color,0.2782427350462278,Production / capacity x 6
+capacity,Rule-based,12,M_SZ,midstream,1,C1,product_color,0.2822324790678336,Production / capacity x 6
+capacity,Rule-based,12,M_SZ,midstream,2,C2,product_color,,Production / capacity x 6
+capacity,Rule-based,12,M_SZ,midstream,3,C3,product_color,0.34048268951473504,Production / capacity x 6
+capacity,Rule-based,12,M_SZ,midstream,4,C4,product_color,0.4067467773479142,Production / capacity x 6
+capacity,Rule-based,12,M_SZ,midstream,5,C5,product_color,0.39895140799827783,Production / capacity x 6
+capacity,Rule-based,13,M_CC,midstream,0,C0,product_color,0.2658513581818212,Production / capacity x 6
+capacity,Rule-based,13,M_CC,midstream,1,C1,product_color,0.2696634212955822,Production / capacity x 6
+capacity,Rule-based,13,M_CC,midstream,2,C2,product_color,0.3271443335805282,Production / capacity x 6
+capacity,Rule-based,13,M_CC,midstream,3,C3,product_color,0.325319492815698,Production / capacity x 6
+capacity,Rule-based,13,M_CC,midstream,4,C4,product_color,0.3886325483971974,Production / capacity x 6
+capacity,Rule-based,13,M_CC,midstream,5,C5,product_color,0.3811843412453184,Production / capacity x 6
+capacity,Rule-based,14,M_CQ,midstream,0,C0,product_color,0.31269183557576097,Production / capacity x 6
+capacity,Rule-based,14,M_CQ,midstream,1,C1,product_color,0.31717554790480385,Production / capacity x 6
+capacity,Rule-based,14,M_CQ,midstream,2,C2,product_color,0.38478404949709744,Production / capacity x 6
+capacity,Rule-based,14,M_CQ,midstream,3,C3,product_color,0.3826376891689404,Production / capacity x 6
+capacity,Rule-based,14,M_CQ,midstream,4,C4,product_color,0.4571059021624176,Production / capacity x 6
+capacity,Rule-based,14,M_CQ,midstream,5,C5,product_color,0.4483453918456836,Production / capacity x 6
+capacity,Rule-based,15,D_OEM1,downstream,0,C0,product_color,0.4804987760236572,Production / capacity x 6
+capacity,Rule-based,15,D_OEM1,downstream,1,C1,product_color,0.542722910530041,Production / capacity x 6
+capacity,Rule-based,15,D_OEM1,downstream,2,C2,product_color,0.6027492561793584,Production / capacity x 6
+capacity,Rule-based,15,D_OEM1,downstream,3,C3,product_color,0.6601255676432112,Production / capacity x 6
+capacity,Rule-based,15,D_OEM1,downstream,4,C4,product_color,0.7223860506051546,Production / capacity x 6
+capacity,Rule-based,15,D_OEM1,downstream,5,C5,product_color,,Production / capacity x 6
+capacity,Rule-based,16,D_OEM2,downstream,0,C0,product_color,0.4734922685640366,Production / capacity x 6
+capacity,Rule-based,16,D_OEM2,downstream,1,C1,product_color,0.5317099733240184,Production / capacity x 6
+capacity,Rule-based,16,D_OEM2,downstream,2,C2,product_color,0.5863876323012996,Production / capacity x 6
+capacity,Rule-based,16,D_OEM2,downstream,3,C3,product_color,0.645898357392582,Production / capacity x 6
+capacity,Rule-based,16,D_OEM2,downstream,4,C4,product_color,0.7010117609584368,Production / capacity x 6
+capacity,Rule-based,16,D_OEM2,downstream,5,C5,product_color,0.8016478535618339,Production / capacity x 6
+capacity,Rule-based,17,D_OEM3,downstream,0,C0,product_color,0.4609960992229818,Production / capacity x 6
+capacity,Rule-based,17,D_OEM3,downstream,1,C1,product_color,0.5156326768096254,Production / capacity x 6
+capacity,Rule-based,17,D_OEM3,downstream,2,C2,product_color,0.5676494868350963,Production / capacity x 6
+capacity,Rule-based,17,D_OEM3,downstream,3,C3,product_color,0.6196995879373074,Production / capacity x 6
+capacity,Rule-based,17,D_OEM3,downstream,4,C4,product_color,0.6746861257169537,Production / capacity x 6
+capacity,Rule-based,17,D_OEM3,downstream,5,C5,product_color,0.7968438566091636,Production / capacity x 6
+capacity,Rule-based,18,D_OEM4,downstream,0,C0,product_color,0.4415690653425054,Production / capacity x 6
+capacity,Rule-based,18,D_OEM4,downstream,1,C1,product_color,0.4928819154299082,Production / capacity x 6
+capacity,Rule-based,18,D_OEM4,downstream,2,C2,product_color,0.5428526509575174,Production / capacity x 6
+capacity,Rule-based,18,D_OEM4,downstream,3,C3,product_color,0.59402392574655,Production / capacity x 6
+capacity,Rule-based,18,D_OEM4,downstream,4,C4,product_color,0.6450817662485537,Production / capacity x 6
+capacity,Rule-based,18,D_OEM4,downstream,5,C5,product_color,0.7907946822733434,Production / capacity x 6
+capacity,Rule-based,19,D_RS1,downstream,0,C0,product_color,0.5014728388805683,Production / capacity x 6
+capacity,Rule-based,19,D_RS1,downstream,1,C1,product_color,0.5552609254393895,Production / capacity x 6
+capacity,Rule-based,19,D_RS1,downstream,2,C2,product_color,0.608368038120855,Production / capacity x 6
+capacity,Rule-based,19,D_RS1,downstream,3,C3,product_color,0.6638386251640218,Production / capacity x 6
+capacity,Rule-based,19,D_RS1,downstream,4,C4,product_color,0.7162747596827646,Production / capacity x 6
+capacity,Rule-based,19,D_RS1,downstream,5,C5,product_color,0.7839553676123988,Production / capacity x 6
+capacity,Rule-based,20,D_RS2,downstream,0,C0,product_color,0.36542961584365863,Production / capacity x 6
+capacity,Rule-based,20,D_RS2,downstream,1,C1,product_color,0.41443333629981605,Production / capacity x 6
+capacity,Rule-based,20,D_RS2,downstream,2,C2,product_color,0.4629671749872678,Production / capacity x 6
+capacity,Rule-based,20,D_RS2,downstream,3,C3,product_color,0.5115989585520414,Production / capacity x 6
+capacity,Rule-based,20,D_RS2,downstream,4,C4,product_color,0.5602972836307878,Production / capacity x 6
+capacity,Rule-based,20,D_RS2,downstream,5,C5,product_color,,Production / capacity x 6
+capacity,Rule-based,21,D_RS3,downstream,0,C0,product_color,0.3761710549132248,Production / capacity x 6
+capacity,Rule-based,21,D_RS3,downstream,1,C1,product_color,0.42311219863924676,Production / capacity x 6
+capacity,Rule-based,21,D_RS3,downstream,2,C2,product_color,0.46840381525612496,Production / capacity x 6
+capacity,Rule-based,21,D_RS3,downstream,3,C3,product_color,0.514602025762845,Production / capacity x 6
+capacity,Rule-based,21,D_RS3,downstream,4,C4,product_color,0.5613493775424024,Production / capacity x 6
+capacity,Rule-based,21,D_RS3,downstream,5,C5,product_color,0.607656607683567,Production / capacity x 6
+capacity,Rule-based,22,D_IC1,downstream,0,C0,product_color,0.38653722657667383,Production / capacity x 6
+capacity,Rule-based,22,D_IC1,downstream,1,C1,product_color,0.43006262946551155,Production / capacity x 6
+capacity,Rule-based,22,D_IC1,downstream,2,C2,product_color,0.4736398450213266,Production / capacity x 6
+capacity,Rule-based,22,D_IC1,downstream,3,C3,product_color,0.517692493591203,Production / capacity x 6
+capacity,Rule-based,22,D_IC1,downstream,4,C4,product_color,0.5606326098118855,Production / capacity x 6
+capacity,Rule-based,22,D_IC1,downstream,5,C5,product_color,0.6055305544053642,Production / capacity x 6
+capacity,Rule-based,23,D_IC2,downstream,0,C0,product_color,0.4855353928725912,Production / capacity x 6
+capacity,Rule-based,23,D_IC2,downstream,1,C1,product_color,0.5363539150166705,Production / capacity x 6
+capacity,Rule-based,23,D_IC2,downstream,2,C2,product_color,0.590158814361384,Production / capacity x 6
+capacity,Rule-based,23,D_IC2,downstream,3,C3,product_color,0.6400615891504842,Production / capacity x 6
+capacity,Rule-based,23,D_IC2,downstream,4,C4,product_color,0.6911960097843882,Production / capacity x 6
+capacity,Rule-based,23,D_IC2,downstream,5,C5,product_color,0.7491606977409173,Production / capacity x 6
+logistics_flow,CSPPO,0,U_FQ,upstream,4,M_TJ,midstream,80.41327948875738,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,5,M_SH,midstream,94.77527396034397,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,6,M_WS,midstream,94.77527396034397,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,7,M_HB,midstream,94.77527396034397,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,8,M_GZ,midstream,78.42437177063708,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,9,M_FQ,midstream,94.77527396034397,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,10,M_ZZ,midstream,94.77527396034397,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,11,M_SY,midstream,94.77527396034397,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,12,M_SZ,midstream,77.10056685605238,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,13,M_CC,midstream,94.77527396034397,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,14,M_CQ,midstream,94.77527396034397,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,0,U_FQ,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,4,M_TJ,midstream,79.81421142495921,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,5,M_SH,midstream,93.25097354265098,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,6,M_WS,midstream,93.25097354265098,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,7,M_HB,midstream,93.25097354265098,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,8,M_GZ,midstream,73.31582658977362,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,9,M_FQ,midstream,93.25097354265098,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,10,M_ZZ,midstream,93.25097354265098,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,11,M_SY,midstream,93.25097354265098,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,12,M_SZ,midstream,78.00428569205246,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,13,M_CC,midstream,93.25097354265098,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,14,M_CQ,midstream,93.25097354265098,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,1,U_BX,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,4,M_TJ,midstream,78.42854580634148,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,5,M_SH,midstream,92.79054027792806,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,6,M_WS,midstream,92.79054027792806,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,7,M_HB,midstream,92.79054027792806,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,8,M_GZ,midstream,76.55641391877069,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,9,M_FQ,midstream,92.79054027792806,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,10,M_ZZ,midstream,92.79054027792806,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,11,M_SY,midstream,92.79054027792806,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,12,M_SZ,midstream,75.11553200868073,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,13,M_CC,midstream,92.79054027792806,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,14,M_CQ,midstream,92.79054027792806,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,2,U_TL,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,4,M_TJ,midstream,72.71587130915444,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,5,M_SH,midstream,87.07706994894356,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,6,M_WS,midstream,87.07706994894356,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,7,M_HB,midstream,87.07706994894356,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,8,M_GZ,midstream,73.21283924539063,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,9,M_FQ,midstream,87.07706994894356,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,10,M_ZZ,midstream,87.07706994894356,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,11,M_SY,midstream,87.07706994894356,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,12,M_SZ,midstream,70.87595604652964,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,13,M_CC,midstream,87.07706994894356,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,14,M_CQ,midstream,87.07706994894356,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,CSPPO,3,U_WS,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,15,D_OEM1,downstream,25.30676728940266,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,16,D_OEM2,downstream,33.105366694941374,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,17,D_OEM3,downstream,33.105366694941374,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,18,D_OEM4,downstream,33.105366694941374,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,19,D_RS1,downstream,33.105366694941374,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,20,D_RS2,downstream,25.30676728940266,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,21,D_RS3,downstream,33.105366694941374,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,22,D_IC1,downstream,33.105366694941374,Mean logistics flow
+logistics_flow,CSPPO,4,M_TJ,midstream,23,D_IC2,downstream,33.105366694941374,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,15,D_OEM1,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,16,D_OEM2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,17,D_OEM3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,18,D_OEM4,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,19,D_RS1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,20,D_RS2,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,21,D_RS3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,22,D_IC1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,5,M_SH,midstream,23,D_IC2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,15,D_OEM1,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,16,D_OEM2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,17,D_OEM3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,18,D_OEM4,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,19,D_RS1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,20,D_RS2,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,21,D_RS3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,22,D_IC1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,6,M_WS,midstream,23,D_IC2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,15,D_OEM1,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,16,D_OEM2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,17,D_OEM3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,18,D_OEM4,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,19,D_RS1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,20,D_RS2,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,21,D_RS3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,22,D_IC1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,7,M_HB,midstream,23,D_IC2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,15,D_OEM1,downstream,26.250181678273773,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,16,D_OEM2,downstream,34.68199905616149,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,17,D_OEM3,downstream,34.68199905616149,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,18,D_OEM4,downstream,34.68199905616149,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,19,D_RS1,downstream,34.68199905616149,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,20,D_RS2,downstream,26.250181678273773,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,21,D_RS3,downstream,34.68199905616149,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,22,D_IC1,downstream,34.68199905616149,Mean logistics flow
+logistics_flow,CSPPO,8,M_GZ,midstream,23,D_IC2,downstream,34.68199905616149,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,15,D_OEM1,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,16,D_OEM2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,17,D_OEM3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,18,D_OEM4,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,19,D_RS1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,20,D_RS2,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,21,D_RS3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,22,D_IC1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,9,M_FQ,midstream,23,D_IC2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,15,D_OEM1,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,16,D_OEM2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,17,D_OEM3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,18,D_OEM4,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,19,D_RS1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,20,D_RS2,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,21,D_RS3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,22,D_IC1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,10,M_ZZ,midstream,23,D_IC2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,15,D_OEM1,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,16,D_OEM2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,17,D_OEM3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,18,D_OEM4,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,19,D_RS1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,20,D_RS2,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,21,D_RS3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,22,D_IC1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,11,M_SY,midstream,23,D_IC2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,15,D_OEM1,downstream,26.425024291901043,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,16,D_OEM2,downstream,34.856841669788764,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,17,D_OEM3,downstream,34.856841669788764,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,18,D_OEM4,downstream,34.856841669788764,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,19,D_RS1,downstream,34.856841669788764,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,20,D_RS2,downstream,26.425024291901043,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,21,D_RS3,downstream,34.856841669788764,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,22,D_IC1,downstream,34.856841669788764,Mean logistics flow
+logistics_flow,CSPPO,12,M_SZ,midstream,23,D_IC2,downstream,34.856841669788764,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,15,D_OEM1,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,16,D_OEM2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,17,D_OEM3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,18,D_OEM4,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,19,D_RS1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,20,D_RS2,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,21,D_RS3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,22,D_IC1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,13,M_CC,midstream,23,D_IC2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,15,D_OEM1,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,16,D_OEM2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,17,D_OEM3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,18,D_OEM4,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,19,D_RS1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,20,D_RS2,downstream,33.63092611404423,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,21,D_RS3,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,22,D_IC1,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,CSPPO,14,M_CQ,midstream,23,D_IC2,downstream,42.06274349193194,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,4,M_TJ,midstream,69.5493982348099,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,5,M_SH,midstream,81.05341855164771,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,6,M_WS,midstream,81.05341855164771,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,7,M_HB,midstream,81.05341855164771,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,8,M_GZ,midstream,65.89998946458223,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,9,M_FQ,midstream,81.05341855164771,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,10,M_ZZ,midstream,81.05341855164771,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,11,M_SY,midstream,81.05341855164771,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,12,M_SZ,midstream,67.65753444362333,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,13,M_CC,midstream,81.05341855164771,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,14,M_CQ,midstream,81.05341855164771,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,Random,0,U_FQ,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,4,M_TJ,midstream,68.80377316778066,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,5,M_SH,midstream,80.06193136069531,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,6,M_WS,midstream,80.06193136069531,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,7,M_HB,midstream,80.06193136069531,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,8,M_GZ,midstream,64.43179791135844,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,9,M_FQ,midstream,80.06193136069531,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,10,M_ZZ,midstream,80.06193136069531,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,11,M_SY,midstream,80.06193136069531,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,12,M_SZ,midstream,65.98316830171856,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,13,M_CC,midstream,80.06193136069531,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,14,M_CQ,midstream,80.06193136069531,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,Random,1,U_BX,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,4,M_TJ,midstream,64.50218292712928,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,5,M_SH,midstream,76.04889544726981,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,6,M_WS,midstream,76.04889544726981,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,7,M_HB,midstream,76.04889544726981,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,8,M_GZ,midstream,61.45909403696484,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,9,M_FQ,midstream,76.04889544726981,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,10,M_ZZ,midstream,76.04889544726981,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,11,M_SY,midstream,76.04889544726981,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,12,M_SZ,midstream,63.493195608098446,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,13,M_CC,midstream,76.04889544726981,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,14,M_CQ,midstream,76.04889544726981,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,Random,2,U_TL,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,4,M_TJ,midstream,65.73482725861228,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,5,M_SH,midstream,77.44395415825247,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,6,M_WS,midstream,77.44395415825247,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,7,M_HB,midstream,77.44395415825247,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,8,M_GZ,midstream,61.4063620486633,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,9,M_FQ,midstream,77.44395415825247,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,10,M_ZZ,midstream,77.44395415825247,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,11,M_SY,midstream,77.44395415825247,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,12,M_SZ,midstream,64.80372294753765,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,13,M_CC,midstream,77.44395415825247,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,14,M_CQ,midstream,77.44395415825247,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,Random,3,U_WS,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,15,D_OEM1,downstream,19.663587781626404,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,16,D_OEM2,downstream,26.63192163507845,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,17,D_OEM3,downstream,26.63192163507845,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,18,D_OEM4,downstream,26.63192163507845,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,19,D_RS1,downstream,26.63192163507845,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,20,D_RS2,downstream,19.663587781626404,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,21,D_RS3,downstream,26.63192163507845,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,22,D_IC1,downstream,26.63192163507845,Mean logistics flow
+logistics_flow,Random,4,M_TJ,midstream,23,D_IC2,downstream,26.63192163507845,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,15,D_OEM1,downstream,26.787641054252752,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,16,D_OEM2,downstream,34.36190593394476,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,17,D_OEM3,downstream,34.36190593394476,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,18,D_OEM4,downstream,34.36190593394476,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,19,D_RS1,downstream,34.36190593394476,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,20,D_RS2,downstream,26.787641054252752,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,21,D_RS3,downstream,34.36190593394476,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,22,D_IC1,downstream,34.36190593394476,Mean logistics flow
+logistics_flow,Random,5,M_SH,midstream,23,D_IC2,downstream,34.36190593394476,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,15,D_OEM1,downstream,26.97307615482596,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,16,D_OEM2,downstream,34.54289977429968,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,17,D_OEM3,downstream,34.54289977429968,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,18,D_OEM4,downstream,34.54289977429968,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,19,D_RS1,downstream,34.54289977429968,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,20,D_RS2,downstream,26.97307615482596,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,21,D_RS3,downstream,34.54289977429968,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,22,D_IC1,downstream,34.54289977429968,Mean logistics flow
+logistics_flow,Random,6,M_WS,midstream,23,D_IC2,downstream,34.54289977429968,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,15,D_OEM1,downstream,27.276602824302422,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,16,D_OEM2,downstream,34.73091210402524,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,17,D_OEM3,downstream,34.73091210402524,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,18,D_OEM4,downstream,34.73091210402524,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,19,D_RS1,downstream,34.73091210402524,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,20,D_RS2,downstream,27.276602824302422,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,21,D_RS3,downstream,34.73091210402524,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,22,D_IC1,downstream,34.73091210402524,Mean logistics flow
+logistics_flow,Random,7,M_HB,midstream,23,D_IC2,downstream,34.73091210402524,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,15,D_OEM1,downstream,21.3069610317693,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,16,D_OEM2,downstream,29.16556051311233,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,17,D_OEM3,downstream,29.16556051311233,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,18,D_OEM4,downstream,29.16556051311233,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,19,D_RS1,downstream,29.16556051311233,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,20,D_RS2,downstream,21.3069610317693,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,21,D_RS3,downstream,29.16556051311233,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,22,D_IC1,downstream,29.16556051311233,Mean logistics flow
+logistics_flow,Random,8,M_GZ,midstream,23,D_IC2,downstream,29.16556051311233,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,15,D_OEM1,downstream,26.51149671413612,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,16,D_OEM2,downstream,34.08831171137161,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,17,D_OEM3,downstream,34.08831171137161,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,18,D_OEM4,downstream,34.08831171137161,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,19,D_RS1,downstream,34.08831171137161,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,20,D_RS2,downstream,26.51149671413612,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,21,D_RS3,downstream,34.08831171137161,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,22,D_IC1,downstream,34.08831171137161,Mean logistics flow
+logistics_flow,Random,9,M_FQ,midstream,23,D_IC2,downstream,34.08831171137161,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,15,D_OEM1,downstream,26.6620023051999,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,16,D_OEM2,downstream,34.36496777321621,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,17,D_OEM3,downstream,34.36496777321621,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,18,D_OEM4,downstream,34.36496777321621,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,19,D_RS1,downstream,34.36496777321621,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,20,D_RS2,downstream,26.6620023051999,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,21,D_RS3,downstream,34.36496777321621,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,22,D_IC1,downstream,34.36496777321621,Mean logistics flow
+logistics_flow,Random,10,M_ZZ,midstream,23,D_IC2,downstream,34.36496777321621,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,15,D_OEM1,downstream,26.572759358047797,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,16,D_OEM2,downstream,33.85987683838993,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,17,D_OEM3,downstream,33.85987683838993,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,18,D_OEM4,downstream,33.85987683838993,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,19,D_RS1,downstream,33.85987683838993,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,20,D_RS2,downstream,26.572759358047797,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,21,D_RS3,downstream,33.85987683838993,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,22,D_IC1,downstream,33.85987683838993,Mean logistics flow
+logistics_flow,Random,11,M_SY,midstream,23,D_IC2,downstream,33.85987683838993,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,15,D_OEM1,downstream,21.843971436940304,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,16,D_OEM2,downstream,29.60606493139824,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,17,D_OEM3,downstream,29.60606493139824,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,18,D_OEM4,downstream,29.60606493139824,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,19,D_RS1,downstream,29.60606493139824,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,20,D_RS2,downstream,21.843971436940304,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,21,D_RS3,downstream,29.60606493139824,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,22,D_IC1,downstream,29.60606493139824,Mean logistics flow
+logistics_flow,Random,12,M_SZ,midstream,23,D_IC2,downstream,29.60606493139824,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,15,D_OEM1,downstream,27.02723192289726,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,16,D_OEM2,downstream,34.649398520019055,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,17,D_OEM3,downstream,34.649398520019055,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,18,D_OEM4,downstream,34.649398520019055,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,19,D_RS1,downstream,34.649398520019055,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,20,D_RS2,downstream,27.02723192289726,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,21,D_RS3,downstream,34.649398520019055,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,22,D_IC1,downstream,34.649398520019055,Mean logistics flow
+logistics_flow,Random,13,M_CC,midstream,23,D_IC2,downstream,34.649398520019055,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,15,D_OEM1,downstream,26.453475735652614,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,16,D_OEM2,downstream,33.84185134019937,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,17,D_OEM3,downstream,33.84185134019937,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,18,D_OEM4,downstream,33.84185134019937,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,19,D_RS1,downstream,33.84185134019937,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,20,D_RS2,downstream,26.453475735652614,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,21,D_RS3,downstream,33.84185134019937,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,22,D_IC1,downstream,33.84185134019937,Mean logistics flow
+logistics_flow,Random,14,M_CQ,midstream,23,D_IC2,downstream,33.84185134019937,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,4,M_TJ,midstream,91.40627671639184,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,5,M_SH,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,6,M_WS,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,7,M_HB,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,8,M_GZ,midstream,84.77324441615262,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,9,M_FQ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,10,M_ZZ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,11,M_SY,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,12,M_SZ,midstream,88.09435390847713,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,13,M_CC,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,14,M_CQ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,0,U_FQ,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,4,M_TJ,midstream,91.40627671639184,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,5,M_SH,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,6,M_WS,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,7,M_HB,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,8,M_GZ,midstream,84.77324441615262,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,9,M_FQ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,10,M_ZZ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,11,M_SY,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,12,M_SZ,midstream,88.09435390847713,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,13,M_CC,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,14,M_CQ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,1,U_BX,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,4,M_TJ,midstream,91.40627671639184,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,5,M_SH,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,6,M_WS,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,7,M_HB,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,8,M_GZ,midstream,84.77324441615262,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,9,M_FQ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,10,M_ZZ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,11,M_SY,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,12,M_SZ,midstream,88.09435390847713,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,13,M_CC,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,14,M_CQ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,2,U_TL,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,4,M_TJ,midstream,91.40627671639184,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,5,M_SH,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,6,M_WS,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,7,M_HB,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,8,M_GZ,midstream,84.77324441615262,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,9,M_FQ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,10,M_ZZ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,11,M_SY,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,12,M_SZ,midstream,88.09435390847713,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,13,M_CC,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,14,M_CQ,midstream,105.76843550892777,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,15,D_OEM1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,16,D_OEM2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,17,D_OEM3,downstream,,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,18,D_OEM4,downstream,,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,19,D_RS1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,20,D_RS2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,21,D_RS3,downstream,,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,22,D_IC1,downstream,,Mean logistics flow
+logistics_flow,Rule-based,3,U_WS,upstream,23,D_IC2,downstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,15,D_OEM1,downstream,29.977562003146723,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,16,D_OEM2,downstream,41.18619679928882,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,17,D_OEM3,downstream,41.18619679928882,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,18,D_OEM4,downstream,41.18619679928882,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,19,D_RS1,downstream,41.18619679928882,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,20,D_RS2,downstream,29.977562003146723,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,21,D_RS3,downstream,41.18619679928882,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,22,D_IC1,downstream,41.18619679928882,Mean logistics flow
+logistics_flow,Rule-based,4,M_TJ,midstream,23,D_IC2,downstream,41.18619679928882,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,15,D_OEM1,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,16,D_OEM2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,17,D_OEM3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,18,D_OEM4,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,19,D_RS1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,20,D_RS2,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,21,D_RS3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,22,D_IC1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,5,M_SH,midstream,23,D_IC2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,15,D_OEM1,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,16,D_OEM2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,17,D_OEM3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,18,D_OEM4,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,19,D_RS1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,20,D_RS2,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,21,D_RS3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,22,D_IC1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,6,M_WS,midstream,23,D_IC2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,15,D_OEM1,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,16,D_OEM2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,17,D_OEM3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,18,D_OEM4,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,19,D_RS1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,20,D_RS2,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,21,D_RS3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,22,D_IC1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,7,M_HB,midstream,23,D_IC2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,15,D_OEM1,downstream,27.16951070840617,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,16,D_OEM2,downstream,38.37814550454827,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,17,D_OEM3,downstream,38.37814550454827,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,18,D_OEM4,downstream,38.37814550454827,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,19,D_RS1,downstream,38.37814550454827,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,20,D_RS2,downstream,27.16951070840617,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,21,D_RS3,downstream,38.37814550454827,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,22,D_IC1,downstream,38.37814550454827,Mean logistics flow
+logistics_flow,Rule-based,8,M_GZ,midstream,23,D_IC2,downstream,38.37814550454827,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,15,D_OEM1,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,16,D_OEM2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,17,D_OEM3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,18,D_OEM4,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,19,D_RS1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,20,D_RS2,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,21,D_RS3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,22,D_IC1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,9,M_FQ,midstream,23,D_IC2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,15,D_OEM1,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,16,D_OEM2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,17,D_OEM3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,18,D_OEM4,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,19,D_RS1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,20,D_RS2,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,21,D_RS3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,22,D_IC1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,10,M_ZZ,midstream,23,D_IC2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,15,D_OEM1,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,16,D_OEM2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,17,D_OEM3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,18,D_OEM4,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,19,D_RS1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,20,D_RS2,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,21,D_RS3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,22,D_IC1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,11,M_SY,midstream,23,D_IC2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,15,D_OEM1,downstream,28.57576895467629,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,16,D_OEM2,downstream,39.78440375081839,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,17,D_OEM3,downstream,39.78440375081839,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,18,D_OEM4,downstream,39.78440375081839,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,19,D_RS1,downstream,39.78440375081839,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,20,D_RS2,downstream,28.57576895467629,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,21,D_RS3,downstream,39.78440375081839,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,22,D_IC1,downstream,39.78440375081839,Mean logistics flow
+logistics_flow,Rule-based,12,M_SZ,midstream,23,D_IC2,downstream,39.78440375081839,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,15,D_OEM1,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,16,D_OEM2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,17,D_OEM3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,18,D_OEM4,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,19,D_RS1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,20,D_RS2,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,21,D_RS3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,22,D_IC1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,13,M_CC,midstream,23,D_IC2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,4,M_TJ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,5,M_SH,midstream,,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,6,M_WS,midstream,,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,7,M_HB,midstream,,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,8,M_GZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,9,M_FQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,10,M_ZZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,11,M_SY,midstream,,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,12,M_SZ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,13,M_CC,midstream,,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,14,M_CQ,midstream,,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,15,D_OEM1,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,16,D_OEM2,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,17,D_OEM3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,18,D_OEM4,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,19,D_RS1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,20,D_RS2,downstream,36.05768102823097,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,21,D_RS3,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,22,D_IC1,downstream,47.266315824373066,Mean logistics flow
+logistics_flow,Rule-based,14,M_CQ,midstream,23,D_IC2,downstream,47.266315824373066,Mean logistics flow

@@ -1,0 +1,10 @@
+case_id,scale,upstream,midstream,downstream,products,instance_specification,instance_seed,train_horizon,eval_horizon
+S1,Small,3,4,5,6,U3M4D5P6,1101,50,120
+S2,Small,4,4,6,8,U4M4D6P8,1102,50,120
+S3,Small,4,5,6,8,U4M5D6P8,1103,50,120
+M1,Medium,5,8,10,12,U5M8D10P12,2201,50,160
+M2,Medium,6,9,12,14,U6M9D12P14,2202,50,160
+M3,Medium,7,10,14,15,U7M10D14P15,2203,50,160
+L1,Large,8,12,15,16,U8M12D15P16,3301,50,200
+L2,Large,9,13,18,18,U9M13D18P18,3302,50,200
+L3,Large,10,15,20,20,U10M15D20P20,3303,50,200

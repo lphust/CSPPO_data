@@ -1,0 +1,91 @@
+method,case,seed,episode,metric,value,source_file
+CSPPO,U4M11D9P6,0,seed_mean,ACF,0.0019305555555555,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,1,seed_mean,ACF,0.0019305555555555,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,2,seed_mean,ACF,0.0019305555555555,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,3,seed_mean,ACF,0.0019305555555555,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,4,seed_mean,ACF,0.0019305555555555,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+Random,U4M11D9P6,0,seed_mean,ACF,0.0462638888888888,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,1,seed_mean,ACF,0.0472638888888888,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,2,seed_mean,ACF,0.0482638888888888,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,3,seed_mean,ACF,0.0465638888888888,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,4,seed_mean,ACF,0.0484638888888888,case_study/random_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,0,seed_mean,ACF,0.0219305555555555,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,1,seed_mean,ACF,0.0249305555555555,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,2,seed_mean,ACF,0.0199305555555555,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,3,seed_mean,ACF,0.0239305555555555,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,4,seed_mean,ACF,0.0229305555555555,case_study/rule_based_results/per_episode_metrics.csv
+CSPPO,U4M11D9P6,0,seed_mean,Average follower reward,-0.2093069450164416,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,1,seed_mean,Average follower reward,-0.2400046488947826,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,2,seed_mean,Average follower reward,-0.217591840146541,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,3,seed_mean,Average follower reward,-0.2887617191930602,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,4,seed_mean,Average follower reward,-0.219920099464367,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+Random,U4M11D9P6,0,seed_mean,Average follower reward,-0.2075158577330858,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,1,seed_mean,Average follower reward,-0.2095536629199544,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,2,seed_mean,Average follower reward,-0.1817216349511066,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,3,seed_mean,Average follower reward,-0.1883641702108979,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,4,seed_mean,Average follower reward,-0.2232839806485335,case_study/random_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,0,seed_mean,Average follower reward,-0.2287623349708626,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,1,seed_mean,Average follower reward,-0.2286765385386542,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,2,seed_mean,Average follower reward,-0.2287514965880529,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,3,seed_mean,Average follower reward,-0.2287960766733192,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,4,seed_mean,Average follower reward,-0.2286764976404762,case_study/rule_based_results/per_episode_metrics.csv
+CSPPO,U4M11D9P6,0,seed_mean,Cost,407459.7213211878,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,1,seed_mean,Cost,416609.8196048342,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,2,seed_mean,Cost,413688.3860732002,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,3,seed_mean,Cost,399214.8790922152,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,4,seed_mean,Cost,410350.4260946598,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+Random,U4M11D9P6,0,seed_mean,Cost,494946.3014912975,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,1,seed_mean,Cost,478604.1665564946,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,2,seed_mean,Cost,452710.70114717225,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,3,seed_mean,Cost,476112.0261907346,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,4,seed_mean,Cost,460353.0459366565,case_study/random_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,0,seed_mean,Cost,437107.4378178229,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,1,seed_mean,Cost,416978.2809581304,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,2,seed_mean,Cost,427072.7963565338,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,3,seed_mean,Cost,417163.5608982457,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,4,seed_mean,Cost,447009.16536863294,case_study/rule_based_results/per_episode_metrics.csv
+CSPPO,U4M11D9P6,0,seed_mean,Leader reward,0.838019308581549,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,1,seed_mean,Leader reward,0.8309377858876328,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,2,seed_mean,Leader reward,0.8760454338283955,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,3,seed_mean,Leader reward,0.8450811677246929,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,4,seed_mean,Leader reward,0.8343766267640926,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+Random,U4M11D9P6,0,seed_mean,Leader reward,0.6145379743746444,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,1,seed_mean,Leader reward,0.6039205350124786,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,2,seed_mean,Leader reward,0.6036542649984915,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,3,seed_mean,Leader reward,0.601872829609541,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,4,seed_mean,Leader reward,0.6180558428939931,case_study/random_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,0,seed_mean,Leader reward,0.9023582473617068,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,1,seed_mean,Leader reward,0.9020748265711424,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,2,seed_mean,Leader reward,0.9022439709692696,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,3,seed_mean,Leader reward,0.9022707683201022,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,4,seed_mean,Leader reward,0.9022620532503016,case_study/rule_based_results/per_episode_metrics.csv
+CSPPO,U4M11D9P6,0,seed_mean,OFR,0.8538831915877838,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,1,seed_mean,OFR,0.8495434346068796,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,2,seed_mean,OFR,0.8940437014374689,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,3,seed_mean,OFR,0.8612508132313967,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,4,seed_mean,OFR,0.8517737759084618,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+Random,U4M11D9P6,0,seed_mean,OFR,0.7004719650749086,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,1,seed_mean,OFR,0.6816539932426925,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,2,seed_mean,OFR,0.5805924772367518,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,3,seed_mean,OFR,0.6386081159608052,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,4,seed_mean,OFR,0.6549840315429811,case_study/random_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,0,seed_mean,OFR,0.7740394135107914,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,1,seed_mean,OFR,0.8237830404448168,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,2,seed_mean,OFR,0.7439422221193333,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,3,seed_mean,OFR,0.7240047314143248,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,4,seed_mean,OFR,0.7839599334139756,case_study/rule_based_results/per_episode_metrics.csv
+CSPPO,U4M11D9P6,0,seed_mean,PCLB,0.0186232565355712,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,1,seed_mean,PCLB,0.0220504636768361,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,2,seed_mean,PCLB,0.0212912372891194,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,3,seed_mean,PCLB,0.0190054596611578,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+CSPPO,U4M11D9P6,4,seed_mean,PCLB,0.0205398392082391,case_study/clg_ippo_ssum_results/raw/U4M11D9P6_seed*_eval.csv
+Random,U4M11D9P6,0,seed_mean,PCLB,0.0147525578197745,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,1,seed_mean,PCLB,0.0170018922322118,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,2,seed_mean,PCLB,0.0160078347422698,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,3,seed_mean,PCLB,0.0157541773835248,case_study/random_results/per_episode_metrics.csv
+Random,U4M11D9P6,4,seed_mean,PCLB,0.0159953052556794,case_study/random_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,0,seed_mean,PCLB,0.0278948604641336,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,1,seed_mean,PCLB,0.0259286701198707,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,2,seed_mean,PCLB,0.0249162167153574,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,3,seed_mean,PCLB,0.026960856645556,case_study/rule_based_results/per_episode_metrics.csv
+Rule-based,U4M11D9P6,4,seed_mean,PCLB,0.0252157529823701,case_study/rule_based_results/per_episode_metrics.csv

@@ -1,0 +1,342 @@
+case_id,record_type,node_id,node_name,node_type,node_order,location,role,color_index,color_id,color_name,capable,production_capacity,inventory_capacity,initial_inventory,unit_production_cost,changeover_cost,unmet_cost,demand_mean,demand_std,source_id,target_id,transport_time,transport_cost,notes
+U4M11D9P6,node_color,U_FQ,Fuqing Location,upstream,0,Fuqing,float glass production and supply,0,C0,clear,1,1650,2640,1072,22.0,780,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_FQ,Fuqing Location,upstream,0,Fuqing,float glass production and supply,1,C1,green,1,1650,2640,1072,22.0,780,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_FQ,Fuqing Location,upstream,0,Fuqing,float glass production and supply,2,C2,blue,1,1650,2640,1072,22.0,780,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_FQ,Fuqing Location,upstream,0,Fuqing,float glass production and supply,3,C3,gray,1,1650,2640,1072,22.0,780,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_FQ,Fuqing Location,upstream,0,Fuqing,float glass production and supply,4,C4,bronze,1,1650,2640,1072,22.0,780,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_FQ,Fuqing Location,upstream,0,Fuqing,float glass production and supply,5,C5,purple,1,1650,2640,1072,22.0,780,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_BX,Benxi Location,upstream,1,Benxi,float glass production and supply,0,C0,clear,1,1580,2528,1027,23.8,825,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_BX,Benxi Location,upstream,1,Benxi,float glass production and supply,1,C1,green,1,1580,2528,1027,23.8,825,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_BX,Benxi Location,upstream,1,Benxi,float glass production and supply,2,C2,blue,1,1580,2528,1027,23.8,825,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_BX,Benxi Location,upstream,1,Benxi,float glass production and supply,3,C3,gray,1,1580,2528,1027,23.8,825,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_BX,Benxi Location,upstream,1,Benxi,float glass production and supply,4,C4,bronze,1,1580,2528,1027,23.8,825,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_BX,Benxi Location,upstream,1,Benxi,float glass production and supply,5,C5,purple,1,1580,2528,1027,23.8,825,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_TL,Tongliao Location,upstream,2,Tongliao,float glass production and supply,0,C0,clear,1,1320,2112,858,25.6,870,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_TL,Tongliao Location,upstream,2,Tongliao,float glass production and supply,1,C1,green,1,1320,2112,858,25.6,870,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_TL,Tongliao Location,upstream,2,Tongliao,float glass production and supply,2,C2,blue,1,1320,2112,858,25.6,870,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_TL,Tongliao Location,upstream,2,Tongliao,float glass production and supply,3,C3,gray,1,1320,2112,858,25.6,870,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_TL,Tongliao Location,upstream,2,Tongliao,float glass production and supply,4,C4,bronze,1,1320,2112,858,25.6,870,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_TL,Tongliao Location,upstream,2,Tongliao,float glass production and supply,5,C5,purple,1,1320,2112,858,25.6,870,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_WS,Wansheng Location,upstream,3,Wansheng,float glass production and supply,0,C0,clear,1,1380,2208,897,27.4,915,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_WS,Wansheng Location,upstream,3,Wansheng,float glass production and supply,1,C1,green,1,1380,2208,897,27.4,915,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_WS,Wansheng Location,upstream,3,Wansheng,float glass production and supply,2,C2,blue,1,1380,2208,897,27.4,915,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_WS,Wansheng Location,upstream,3,Wansheng,float glass production and supply,3,C3,gray,1,1380,2208,897,27.4,915,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_WS,Wansheng Location,upstream,3,Wansheng,float glass production and supply,4,C4,bronze,1,1380,2208,897,27.4,915,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,U_WS,Wansheng Location,upstream,3,Wansheng,float glass production and supply,5,C5,purple,1,1380,2208,897,27.4,915,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_TJ,Tianjin Div.,midstream,4,Tianjin,automotive glass processing and production,0,C0,clear,0,980,1421,470,34.0,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_TJ,Tianjin Div.,midstream,4,Tianjin,automotive glass processing and production,1,C1,green,1,980,1421,470,34.0,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_TJ,Tianjin Div.,midstream,4,Tianjin,automotive glass processing and production,2,C2,blue,1,980,1421,470,34.0,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_TJ,Tianjin Div.,midstream,4,Tianjin,automotive glass processing and production,3,C3,gray,1,980,1421,470,34.0,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_TJ,Tianjin Div.,midstream,4,Tianjin,automotive glass processing and production,4,C4,bronze,1,980,1421,470,34.0,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_TJ,Tianjin Div.,midstream,4,Tianjin,automotive glass processing and production,5,C5,purple,1,980,1421,470,34.0,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SH,Shanghai Div.,midstream,5,Shanghai,automotive glass processing and production,0,C0,clear,1,1035,1500,496,35.15,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SH,Shanghai Div.,midstream,5,Shanghai,automotive glass processing and production,1,C1,green,1,1035,1500,496,35.15,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SH,Shanghai Div.,midstream,5,Shanghai,automotive glass processing and production,2,C2,blue,1,1035,1500,496,35.15,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SH,Shanghai Div.,midstream,5,Shanghai,automotive glass processing and production,3,C3,gray,1,1035,1500,496,35.15,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SH,Shanghai Div.,midstream,5,Shanghai,automotive glass processing and production,4,C4,bronze,1,1035,1500,496,35.15,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SH,Shanghai Div.,midstream,5,Shanghai,automotive glass processing and production,5,C5,purple,1,1035,1500,496,35.15,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_WS,Wansheng Div.,midstream,6,Wansheng,automotive glass processing and production,0,C0,clear,1,1090,1580,523,36.3,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_WS,Wansheng Div.,midstream,6,Wansheng,automotive glass processing and production,1,C1,green,1,1090,1580,523,36.3,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_WS,Wansheng Div.,midstream,6,Wansheng,automotive glass processing and production,2,C2,blue,1,1090,1580,523,36.3,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_WS,Wansheng Div.,midstream,6,Wansheng,automotive glass processing and production,3,C3,gray,1,1090,1580,523,36.3,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_WS,Wansheng Div.,midstream,6,Wansheng,automotive glass processing and production,4,C4,bronze,1,1090,1580,523,36.3,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_WS,Wansheng Div.,midstream,6,Wansheng,automotive glass processing and production,5,C5,purple,1,1090,1580,523,36.3,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_HB,Hubei Div.,midstream,7,Hubei,automotive glass processing and production,0,C0,clear,1,1145,1660,549,37.45,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_HB,Hubei Div.,midstream,7,Hubei,automotive glass processing and production,1,C1,green,1,1145,1660,549,37.45,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_HB,Hubei Div.,midstream,7,Hubei,automotive glass processing and production,2,C2,blue,1,1145,1660,549,37.45,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_HB,Hubei Div.,midstream,7,Hubei,automotive glass processing and production,3,C3,gray,1,1145,1660,549,37.45,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_HB,Hubei Div.,midstream,7,Hubei,automotive glass processing and production,4,C4,bronze,1,1145,1660,549,37.45,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_HB,Hubei Div.,midstream,7,Hubei,automotive glass processing and production,5,C5,purple,1,1145,1660,549,37.45,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_GZ,Guangzhou Div.,midstream,8,Guangzhou,automotive glass processing and production,0,C0,clear,1,1200,1740,576,38.6,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_GZ,Guangzhou Div.,midstream,8,Guangzhou,automotive glass processing and production,1,C1,green,1,1200,1740,576,38.6,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_GZ,Guangzhou Div.,midstream,8,Guangzhou,automotive glass processing and production,2,C2,blue,1,1200,1740,576,38.6,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_GZ,Guangzhou Div.,midstream,8,Guangzhou,automotive glass processing and production,3,C3,gray,1,1200,1740,576,38.6,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_GZ,Guangzhou Div.,midstream,8,Guangzhou,automotive glass processing and production,4,C4,bronze,0,1200,1740,576,38.6,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_GZ,Guangzhou Div.,midstream,8,Guangzhou,automotive glass processing and production,5,C5,purple,1,1200,1740,576,38.6,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_FQ,Fuqing Div.,midstream,9,Fuqing,automotive glass processing and production,0,C0,clear,1,1015,1471,487,39.75,1110,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_FQ,Fuqing Div.,midstream,9,Fuqing,automotive glass processing and production,1,C1,green,1,1015,1471,487,39.75,1110,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_FQ,Fuqing Div.,midstream,9,Fuqing,automotive glass processing and production,2,C2,blue,1,1015,1471,487,39.75,1110,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_FQ,Fuqing Div.,midstream,9,Fuqing,automotive glass processing and production,3,C3,gray,1,1015,1471,487,39.75,1110,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_FQ,Fuqing Div.,midstream,9,Fuqing,automotive glass processing and production,4,C4,bronze,1,1015,1471,487,39.75,1110,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_FQ,Fuqing Div.,midstream,9,Fuqing,automotive glass processing and production,5,C5,purple,1,1015,1471,487,39.75,1110,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_ZZ,Zhengzhou Div.,midstream,10,Zhengzhou,automotive glass processing and production,0,C0,clear,1,1070,1551,513,40.9,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_ZZ,Zhengzhou Div.,midstream,10,Zhengzhou,automotive glass processing and production,1,C1,green,1,1070,1551,513,40.9,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_ZZ,Zhengzhou Div.,midstream,10,Zhengzhou,automotive glass processing and production,2,C2,blue,1,1070,1551,513,40.9,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_ZZ,Zhengzhou Div.,midstream,10,Zhengzhou,automotive glass processing and production,3,C3,gray,1,1070,1551,513,40.9,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_ZZ,Zhengzhou Div.,midstream,10,Zhengzhou,automotive glass processing and production,4,C4,bronze,1,1070,1551,513,40.9,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_ZZ,Zhengzhou Div.,midstream,10,Zhengzhou,automotive glass processing and production,5,C5,purple,1,1070,1551,513,40.9,920,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SY,Shenyang Div.,midstream,11,Shenyang,automotive glass processing and production,0,C0,clear,1,1125,1631,540,42.05,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SY,Shenyang Div.,midstream,11,Shenyang,automotive glass processing and production,1,C1,green,1,1125,1631,540,42.05,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SY,Shenyang Div.,midstream,11,Shenyang,automotive glass processing and production,2,C2,blue,1,1125,1631,540,42.05,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SY,Shenyang Div.,midstream,11,Shenyang,automotive glass processing and production,3,C3,gray,1,1125,1631,540,42.05,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SY,Shenyang Div.,midstream,11,Shenyang,automotive glass processing and production,4,C4,bronze,1,1125,1631,540,42.05,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SY,Shenyang Div.,midstream,11,Shenyang,automotive glass processing and production,5,C5,purple,1,1125,1631,540,42.05,958,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SZ,Suzhou Div.,midstream,12,Suzhou,automotive glass processing and production,0,C0,clear,1,1180,1711,566,43.2,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SZ,Suzhou Div.,midstream,12,Suzhou,automotive glass processing and production,1,C1,green,1,1180,1711,566,43.2,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SZ,Suzhou Div.,midstream,12,Suzhou,automotive glass processing and production,2,C2,blue,0,1180,1711,566,43.2,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SZ,Suzhou Div.,midstream,12,Suzhou,automotive glass processing and production,3,C3,gray,1,1180,1711,566,43.2,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SZ,Suzhou Div.,midstream,12,Suzhou,automotive glass processing and production,4,C4,bronze,1,1180,1711,566,43.2,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_SZ,Suzhou Div.,midstream,12,Suzhou,automotive glass processing and production,5,C5,purple,1,1180,1711,566,43.2,996,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CC,Changchun Div.,midstream,13,Changchun,automotive glass processing and production,0,C0,clear,1,1235,1790,592,44.35,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CC,Changchun Div.,midstream,13,Changchun,automotive glass processing and production,1,C1,green,1,1235,1790,592,44.35,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CC,Changchun Div.,midstream,13,Changchun,automotive glass processing and production,2,C2,blue,1,1235,1790,592,44.35,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CC,Changchun Div.,midstream,13,Changchun,automotive glass processing and production,3,C3,gray,1,1235,1790,592,44.35,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CC,Changchun Div.,midstream,13,Changchun,automotive glass processing and production,4,C4,bronze,1,1235,1790,592,44.35,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CC,Changchun Div.,midstream,13,Changchun,automotive glass processing and production,5,C5,purple,1,1235,1790,592,44.35,1034,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CQ,Chongqing Div.,midstream,14,Chongqing,automotive glass processing and production,0,C0,clear,1,1050,1522,504,45.5,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CQ,Chongqing Div.,midstream,14,Chongqing,automotive glass processing and production,1,C1,green,1,1050,1522,504,45.5,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CQ,Chongqing Div.,midstream,14,Chongqing,automotive glass processing and production,2,C2,blue,1,1050,1522,504,45.5,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CQ,Chongqing Div.,midstream,14,Chongqing,automotive glass processing and production,3,C3,gray,1,1050,1522,504,45.5,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CQ,Chongqing Div.,midstream,14,Chongqing,automotive glass processing and production,4,C4,bronze,1,1050,1522,504,45.5,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,M_CQ,Chongqing Div.,midstream,14,Chongqing,automotive glass processing and production,5,C5,purple,1,1050,1522,504,45.5,1072,0,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,0,C0,clear,1,700,875,244,14.0,520,115,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,1,C1,green,1,700,875,244,14.0,520,115,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,2,C2,blue,1,700,875,244,14.0,520,115,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,3,C3,gray,1,700,875,244,14.0,520,115,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,4,C4,bronze,1,700,875,244,14.0,520,115,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,5,C5,purple,0,700,875,244,14.0,520,115,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,0,C0,clear,1,742,927,259,14.65,550,121,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,1,C1,green,1,742,927,259,14.65,550,121,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,2,C2,blue,1,742,927,259,14.65,550,121,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,3,C3,gray,1,742,927,259,14.65,550,121,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,4,C4,bronze,1,742,927,259,14.65,550,121,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,5,C5,purple,1,742,927,259,14.65,550,121,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,0,C0,clear,1,784,980,274,15.3,580,127,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,1,C1,green,1,784,980,274,15.3,580,127,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,2,C2,blue,1,784,980,274,15.3,580,127,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,3,C3,gray,1,784,980,274,15.3,580,127,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,4,C4,bronze,1,784,980,274,15.3,580,127,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,5,C5,purple,1,784,980,274,15.3,580,127,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,0,C0,clear,1,826,1032,289,15.95,610,133,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,1,C1,green,1,826,1032,289,15.95,610,133,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,2,C2,blue,1,826,1032,289,15.95,610,133,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,3,C3,gray,1,826,1032,289,15.95,610,133,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,4,C4,bronze,1,826,1032,289,15.95,610,133,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,5,C5,purple,1,826,1032,289,15.95,610,133,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,0,C0,clear,1,700,875,244,16.6,520,139,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,1,C1,green,1,700,875,244,16.6,520,139,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,2,C2,blue,1,700,875,244,16.6,520,139,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,3,C3,gray,1,700,875,244,16.6,520,139,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,4,C4,bronze,1,700,875,244,16.6,520,139,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,5,C5,purple,1,700,875,244,16.6,520,139,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,0,C0,clear,1,742,927,259,17.25,550,145,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,1,C1,green,1,742,927,259,17.25,550,145,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,2,C2,blue,1,742,927,259,17.25,550,145,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,3,C3,gray,1,742,927,259,17.25,550,145,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,4,C4,bronze,1,742,927,259,17.25,550,145,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,5,C5,purple,0,742,927,259,17.25,550,145,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,0,C0,clear,1,784,980,274,17.9,580,151,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,1,C1,green,1,784,980,274,17.9,580,151,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,2,C2,blue,1,784,980,274,17.9,580,151,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,3,C3,gray,1,784,980,274,17.9,580,151,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,4,C4,bronze,1,784,980,274,17.9,580,151,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,5,C5,purple,1,784,980,274,17.9,580,151,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,0,C0,clear,1,826,1032,289,18.55,610,157,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,1,C1,green,1,826,1032,289,18.55,610,157,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,2,C2,blue,1,826,1032,289,18.55,610,157,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,3,C3,gray,1,826,1032,289,18.55,610,157,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,4,C4,bronze,1,826,1032,289,18.55,610,157,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,5,C5,purple,1,826,1032,289,18.55,610,157,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,0,C0,clear,1,700,875,244,19.2,520,163,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,1,C1,green,1,700,875,244,19.2,520,163,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,2,C2,blue,1,700,875,244,19.2,520,163,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,3,C3,gray,1,700,875,244,19.2,520,163,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,4,C4,bronze,1,700,875,244,19.2,520,163,,,,,,,Node-color production or service capability.
+U4M11D9P6,node_color,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,5,C5,purple,1,700,875,244,19.2,520,163,,,,,,,Node-color production or service capability.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_FQ,M_TJ,3,4.6,Point-to-point flow from U_FQ to M_TJ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_FQ,M_SH,4,4.95,Point-to-point flow from U_FQ to M_SH.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_FQ,M_WS,2,5.3,Point-to-point flow from U_FQ to M_WS.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_FQ,M_HB,3,5.65,Point-to-point flow from U_FQ to M_HB.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_FQ,M_GZ,4,6.0,Point-to-point flow from U_FQ to M_GZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_FQ,M_FQ,2,3.2,Point-to-point flow from U_FQ to M_FQ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_FQ,M_ZZ,3,3.55,Point-to-point flow from U_FQ to M_ZZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_FQ,M_SY,4,3.9,Point-to-point flow from U_FQ to M_SY.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_FQ,M_SZ,2,4.25,Point-to-point flow from U_FQ to M_SZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_FQ,M_CC,3,4.6,Point-to-point flow from U_FQ to M_CC.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_FQ,M_CQ,4,4.95,Point-to-point flow from U_FQ to M_CQ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_BX,M_TJ,4,3.9,Point-to-point flow from U_BX to M_TJ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_BX,M_SH,2,4.25,Point-to-point flow from U_BX to M_SH.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_BX,M_WS,3,4.6,Point-to-point flow from U_BX to M_WS.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_BX,M_HB,4,4.95,Point-to-point flow from U_BX to M_HB.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_BX,M_GZ,2,5.3,Point-to-point flow from U_BX to M_GZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_BX,M_FQ,3,5.65,Point-to-point flow from U_BX to M_FQ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_BX,M_ZZ,4,6.0,Point-to-point flow from U_BX to M_ZZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_BX,M_SY,2,3.2,Point-to-point flow from U_BX to M_SY.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_BX,M_SZ,3,3.55,Point-to-point flow from U_BX to M_SZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_BX,M_CC,4,3.9,Point-to-point flow from U_BX to M_CC.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_BX,M_CQ,2,4.25,Point-to-point flow from U_BX to M_CQ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_TL,M_TJ,2,3.2,Point-to-point flow from U_TL to M_TJ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_TL,M_SH,3,3.55,Point-to-point flow from U_TL to M_SH.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_TL,M_WS,4,3.9,Point-to-point flow from U_TL to M_WS.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_TL,M_HB,2,4.25,Point-to-point flow from U_TL to M_HB.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_TL,M_GZ,3,4.6,Point-to-point flow from U_TL to M_GZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_TL,M_FQ,4,4.95,Point-to-point flow from U_TL to M_FQ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_TL,M_ZZ,2,5.3,Point-to-point flow from U_TL to M_ZZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_TL,M_SY,3,5.65,Point-to-point flow from U_TL to M_SY.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_TL,M_SZ,4,6.0,Point-to-point flow from U_TL to M_SZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_TL,M_CC,2,3.2,Point-to-point flow from U_TL to M_CC.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_TL,M_CQ,3,3.55,Point-to-point flow from U_TL to M_CQ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_WS,M_TJ,3,5.65,Point-to-point flow from U_WS to M_TJ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_WS,M_SH,4,6.0,Point-to-point flow from U_WS to M_SH.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_WS,M_WS,2,3.2,Point-to-point flow from U_WS to M_WS.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_WS,M_HB,3,3.55,Point-to-point flow from U_WS to M_HB.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_WS,M_GZ,4,3.9,Point-to-point flow from U_WS to M_GZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_WS,M_FQ,2,4.25,Point-to-point flow from U_WS to M_FQ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_WS,M_ZZ,3,4.6,Point-to-point flow from U_WS to M_ZZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_WS,M_SY,4,4.95,Point-to-point flow from U_WS to M_SY.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_WS,M_SZ,2,5.3,Point-to-point flow from U_WS to M_SZ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_WS,M_CC,3,5.65,Point-to-point flow from U_WS to M_CC.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,U_WS,M_CQ,4,6.0,Point-to-point flow from U_WS to M_CQ.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_TJ,D_OEM1,2,5.05,Point-to-point flow from M_TJ to D_OEM1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_TJ,D_OEM2,3,5.4,Point-to-point flow from M_TJ to D_OEM2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_TJ,D_OEM3,1,2.6,Point-to-point flow from M_TJ to D_OEM3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_TJ,D_OEM4,2,2.95,Point-to-point flow from M_TJ to D_OEM4.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_TJ,D_RS1,3,3.3,Point-to-point flow from M_TJ to D_RS1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_TJ,D_RS2,1,3.65,Point-to-point flow from M_TJ to D_RS2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_TJ,D_RS3,2,4.0,Point-to-point flow from M_TJ to D_RS3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_TJ,D_IC1,3,4.35,Point-to-point flow from M_TJ to D_IC1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_TJ,D_IC2,1,4.7,Point-to-point flow from M_TJ to D_IC2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SH,D_OEM1,3,4.35,Point-to-point flow from M_SH to D_OEM1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SH,D_OEM2,1,4.7,Point-to-point flow from M_SH to D_OEM2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SH,D_OEM3,2,5.05,Point-to-point flow from M_SH to D_OEM3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SH,D_OEM4,3,5.4,Point-to-point flow from M_SH to D_OEM4.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SH,D_RS1,1,2.6,Point-to-point flow from M_SH to D_RS1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SH,D_RS2,2,2.95,Point-to-point flow from M_SH to D_RS2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SH,D_RS3,3,3.3,Point-to-point flow from M_SH to D_RS3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SH,D_IC1,1,3.65,Point-to-point flow from M_SH to D_IC1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SH,D_IC2,2,4.0,Point-to-point flow from M_SH to D_IC2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_WS,D_OEM1,1,3.65,Point-to-point flow from M_WS to D_OEM1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_WS,D_OEM2,2,4.0,Point-to-point flow from M_WS to D_OEM2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_WS,D_OEM3,3,4.35,Point-to-point flow from M_WS to D_OEM3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_WS,D_OEM4,1,4.7,Point-to-point flow from M_WS to D_OEM4.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_WS,D_RS1,2,5.05,Point-to-point flow from M_WS to D_RS1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_WS,D_RS2,3,5.4,Point-to-point flow from M_WS to D_RS2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_WS,D_RS3,1,2.6,Point-to-point flow from M_WS to D_RS3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_WS,D_IC1,2,2.95,Point-to-point flow from M_WS to D_IC1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_WS,D_IC2,3,3.3,Point-to-point flow from M_WS to D_IC2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_HB,D_OEM1,2,2.95,Point-to-point flow from M_HB to D_OEM1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_HB,D_OEM2,3,3.3,Point-to-point flow from M_HB to D_OEM2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_HB,D_OEM3,1,3.65,Point-to-point flow from M_HB to D_OEM3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_HB,D_OEM4,2,4.0,Point-to-point flow from M_HB to D_OEM4.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_HB,D_RS1,3,4.35,Point-to-point flow from M_HB to D_RS1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_HB,D_RS2,1,4.7,Point-to-point flow from M_HB to D_RS2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_HB,D_RS3,2,5.05,Point-to-point flow from M_HB to D_RS3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_HB,D_IC1,3,5.4,Point-to-point flow from M_HB to D_IC1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_HB,D_IC2,1,2.6,Point-to-point flow from M_HB to D_IC2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_GZ,D_OEM1,3,5.4,Point-to-point flow from M_GZ to D_OEM1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_GZ,D_OEM2,1,2.6,Point-to-point flow from M_GZ to D_OEM2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_GZ,D_OEM3,2,2.95,Point-to-point flow from M_GZ to D_OEM3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_GZ,D_OEM4,3,3.3,Point-to-point flow from M_GZ to D_OEM4.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_GZ,D_RS1,1,3.65,Point-to-point flow from M_GZ to D_RS1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_GZ,D_RS2,2,4.0,Point-to-point flow from M_GZ to D_RS2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_GZ,D_RS3,3,4.35,Point-to-point flow from M_GZ to D_RS3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_GZ,D_IC1,1,4.7,Point-to-point flow from M_GZ to D_IC1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_GZ,D_IC2,2,5.05,Point-to-point flow from M_GZ to D_IC2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_FQ,D_OEM1,1,4.7,Point-to-point flow from M_FQ to D_OEM1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_FQ,D_OEM2,2,5.05,Point-to-point flow from M_FQ to D_OEM2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_FQ,D_OEM3,3,5.4,Point-to-point flow from M_FQ to D_OEM3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_FQ,D_OEM4,1,2.6,Point-to-point flow from M_FQ to D_OEM4.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_FQ,D_RS1,2,2.95,Point-to-point flow from M_FQ to D_RS1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_FQ,D_RS2,3,3.3,Point-to-point flow from M_FQ to D_RS2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_FQ,D_RS3,1,3.65,Point-to-point flow from M_FQ to D_RS3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_FQ,D_IC1,2,4.0,Point-to-point flow from M_FQ to D_IC1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_FQ,D_IC2,3,4.35,Point-to-point flow from M_FQ to D_IC2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_ZZ,D_OEM1,2,4.0,Point-to-point flow from M_ZZ to D_OEM1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_ZZ,D_OEM2,3,4.35,Point-to-point flow from M_ZZ to D_OEM2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_ZZ,D_OEM3,1,4.7,Point-to-point flow from M_ZZ to D_OEM3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_ZZ,D_OEM4,2,5.05,Point-to-point flow from M_ZZ to D_OEM4.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_ZZ,D_RS1,3,5.4,Point-to-point flow from M_ZZ to D_RS1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_ZZ,D_RS2,1,2.6,Point-to-point flow from M_ZZ to D_RS2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_ZZ,D_RS3,2,2.95,Point-to-point flow from M_ZZ to D_RS3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_ZZ,D_IC1,3,3.3,Point-to-point flow from M_ZZ to D_IC1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_ZZ,D_IC2,1,3.65,Point-to-point flow from M_ZZ to D_IC2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SY,D_OEM1,3,3.3,Point-to-point flow from M_SY to D_OEM1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SY,D_OEM2,1,3.65,Point-to-point flow from M_SY to D_OEM2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SY,D_OEM3,2,4.0,Point-to-point flow from M_SY to D_OEM3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SY,D_OEM4,3,4.35,Point-to-point flow from M_SY to D_OEM4.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SY,D_RS1,1,4.7,Point-to-point flow from M_SY to D_RS1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SY,D_RS2,2,5.05,Point-to-point flow from M_SY to D_RS2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SY,D_RS3,3,5.4,Point-to-point flow from M_SY to D_RS3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SY,D_IC1,1,2.6,Point-to-point flow from M_SY to D_IC1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SY,D_IC2,2,2.95,Point-to-point flow from M_SY to D_IC2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SZ,D_OEM1,1,2.6,Point-to-point flow from M_SZ to D_OEM1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SZ,D_OEM2,2,2.95,Point-to-point flow from M_SZ to D_OEM2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SZ,D_OEM3,3,3.3,Point-to-point flow from M_SZ to D_OEM3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SZ,D_OEM4,1,3.65,Point-to-point flow from M_SZ to D_OEM4.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SZ,D_RS1,2,4.0,Point-to-point flow from M_SZ to D_RS1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SZ,D_RS2,3,4.35,Point-to-point flow from M_SZ to D_RS2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SZ,D_RS3,1,4.7,Point-to-point flow from M_SZ to D_RS3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SZ,D_IC1,2,5.05,Point-to-point flow from M_SZ to D_IC1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_SZ,D_IC2,3,5.4,Point-to-point flow from M_SZ to D_IC2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CC,D_OEM1,2,5.05,Point-to-point flow from M_CC to D_OEM1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CC,D_OEM2,3,5.4,Point-to-point flow from M_CC to D_OEM2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CC,D_OEM3,1,2.6,Point-to-point flow from M_CC to D_OEM3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CC,D_OEM4,2,2.95,Point-to-point flow from M_CC to D_OEM4.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CC,D_RS1,3,3.3,Point-to-point flow from M_CC to D_RS1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CC,D_RS2,1,3.65,Point-to-point flow from M_CC to D_RS2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CC,D_RS3,2,4.0,Point-to-point flow from M_CC to D_RS3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CC,D_IC1,3,4.35,Point-to-point flow from M_CC to D_IC1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CC,D_IC2,1,4.7,Point-to-point flow from M_CC to D_IC2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CQ,D_OEM1,3,4.35,Point-to-point flow from M_CQ to D_OEM1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CQ,D_OEM2,1,4.7,Point-to-point flow from M_CQ to D_OEM2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CQ,D_OEM3,2,5.05,Point-to-point flow from M_CQ to D_OEM3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CQ,D_OEM4,3,5.4,Point-to-point flow from M_CQ to D_OEM4.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CQ,D_RS1,1,2.6,Point-to-point flow from M_CQ to D_RS1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CQ,D_RS2,2,2.95,Point-to-point flow from M_CQ to D_RS2.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CQ,D_RS3,3,3.3,Point-to-point flow from M_CQ to D_RS3.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CQ,D_IC1,1,3.65,Point-to-point flow from M_CQ to D_IC1.
+U4M11D9P6,transport,,,,,,,,,,,,,,,,,,,M_CQ,D_IC2,2,4.0,Point-to-point flow from M_CQ to D_IC2.
+U4M11D9P6,demand,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,0,C0,clear,,700,875,244,14.0,520,115,56.25,4.5,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,1,C1,green,,700,875,244,14.0,520,115,63.75,5.1,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,2,C2,blue,,700,875,244,14.0,520,115,71.25,5.7,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,3,C3,gray,,700,875,244,14.0,520,115,78.75,6.3,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,4,C4,bronze,,700,875,244,14.0,520,115,86.25,6.9,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM1,OEM Manufacturer 1,downstream,15,OEM market,OEM market,5,C5,purple,,700,875,244,14.0,520,115,93.75,7.5,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,0,C0,clear,,742,927,259,14.65,550,121,61.25,4.9,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,1,C1,green,,742,927,259,14.65,550,121,68.75,5.5,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,2,C2,blue,,742,927,259,14.65,550,121,76.25,6.1,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,3,C3,gray,,742,927,259,14.65,550,121,83.75,6.7,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,4,C4,bronze,,742,927,259,14.65,550,121,91.25,7.3,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM2,OEM Manufacturer 2,downstream,16,OEM market,OEM market,5,C5,purple,,742,927,259,14.65,550,121,98.75,7.9,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,0,C0,clear,,784,980,274,15.3,580,127,66.25,5.3,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,1,C1,green,,784,980,274,15.3,580,127,73.75,5.9,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,2,C2,blue,,784,980,274,15.3,580,127,81.25,6.5,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,3,C3,gray,,784,980,274,15.3,580,127,88.75,7.1,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,4,C4,bronze,,784,980,274,15.3,580,127,96.25,7.7,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM3,OEM Manufacturer 3,downstream,17,OEM market,OEM market,5,C5,purple,,784,980,274,15.3,580,127,103.75,8.3,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,0,C0,clear,,826,1032,289,15.95,610,133,71.25,5.7,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,1,C1,green,,826,1032,289,15.95,610,133,78.75,6.3,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,2,C2,blue,,826,1032,289,15.95,610,133,86.25,6.9,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,3,C3,gray,,826,1032,289,15.95,610,133,93.75,7.5,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,4,C4,bronze,,826,1032,289,15.95,610,133,101.25,8.1,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_OEM4,OEM Manufacturer 4,downstream,18,OEM market,OEM market,5,C5,purple,,826,1032,289,15.95,610,133,108.75,8.7,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,0,C0,clear,,700,875,244,16.6,520,139,61,4.88,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,1,C1,green,,700,875,244,16.6,520,139,67,5.36,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,2,C2,blue,,700,875,244,16.6,520,139,73,5.84,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,3,C3,gray,,700,875,244,16.6,520,139,79,6.32,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,4,C4,bronze,,700,875,244,16.6,520,139,85,6.8,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS1,Repair Shop 1,downstream,19,ARG repair shop,ARG repair shop,5,C5,purple,,700,875,244,16.6,520,139,91,7.28,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,0,C0,clear,,742,927,259,17.25,550,145,45,3.6,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,1,C1,green,,742,927,259,17.25,550,145,51,4.08,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,2,C2,blue,,742,927,259,17.25,550,145,57,4.56,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,3,C3,gray,,742,927,259,17.25,550,145,63,5.04,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,4,C4,bronze,,742,927,259,17.25,550,145,69,5.52,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS2,Repair Shop 2,downstream,20,ARG repair shop,ARG repair shop,5,C5,purple,,742,927,259,17.25,550,145,75,6.0,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,0,C0,clear,,784,980,274,17.9,580,151,49,3.92,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,1,C1,green,,784,980,274,17.9,580,151,55,4.4,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,2,C2,blue,,784,980,274,17.9,580,151,61,4.88,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,3,C3,gray,,784,980,274,17.9,580,151,67,5.36,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,4,C4,bronze,,784,980,274,17.9,580,151,73,5.84,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_RS3,Repair Shop 3,downstream,21,ARG repair shop,ARG repair shop,5,C5,purple,,784,980,274,17.9,580,151,79,6.32,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,0,C0,clear,,826,1032,289,18.55,610,157,53,4.24,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,1,C1,green,,826,1032,289,18.55,610,157,59,4.72,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,2,C2,blue,,826,1032,289,18.55,610,157,65,5.2,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,3,C3,gray,,826,1032,289,18.55,610,157,71,5.68,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,4,C4,bronze,,826,1032,289,18.55,610,157,77,6.16,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC1,Insurance Channel 1,downstream,22,ARG insurance channel,ARG insurance channel,5,C5,purple,,826,1032,289,18.55,610,157,83,6.64,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,0,C0,clear,,700,875,244,19.2,520,163,57,4.56,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,1,C1,green,,700,875,244,19.2,520,163,63,5.04,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,2,C2,blue,,700,875,244,19.2,520,163,69,5.52,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,3,C3,gray,,700,875,244,19.2,520,163,75,6.0,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,4,C4,bronze,,700,875,244,19.2,520,163,81,6.48,,,,,Terminal market demand by color.
+U4M11D9P6,demand,D_IC2,Insurance Channel 2,downstream,23,ARG insurance channel,ARG insurance channel,5,C5,purple,,700,875,244,19.2,520,163,87,6.96,,,,,Terminal market demand by color.

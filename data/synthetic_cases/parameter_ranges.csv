@@ -1,0 +1,10 @@
+parameter,symbol,distribution_or_value,unit_or_meaning
+Production capacity,C_i,"Uniform(1000, 2000)",units per step
+Demand,D_dk_t,"Uniform(35, 90)",units
+Unit production cost,c_i_m,"Uniform(10, 50)",USD per unit
+Changeover cost,c_i_c,"Uniform(500, 1500)",USD per changeover
+Logistics cost,c_ij_l,"Uniform(2, 10)",USD per unit
+Product-line capability,M_i_k,"30% to 60% feasible probability",binary product capability matrix
+Load-balance weights,"beta_1, beta_2","0.5, 1.0",reward/load-balance coefficients
+Reward weights,"omega_1, omega_2, omega_3","1.0, 0.8, 0.5",fulfillment/cost/balance reward weights
+Evaluation horizon,T,120,timesteps
