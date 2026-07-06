@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the associated manuscript."
+title: "CSPPO Data: Constructed Manufacturing-Chain Cases and Automotive-Glass Case Study"
+authors:
+  - family-names: Liang
+    given-names: Peng
+  - family-names: Sun
+    given-names: Xueyan
+  - family-names: She
+    given-names: Mingzhe
+  - family-names: Gao
+    given-names: Yanshan
+  - family-names: Liu
+    given-names: Min
+  - family-names: Shen
+    given-names: Weiming
+year: 2026
+repository-code: "https://github.com/your-account/CSPPO-data"
+license: "CC-BY-4.0"
