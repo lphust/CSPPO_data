@@ -9,7 +9,7 @@ The package is prepared to support verification and reuse of the constructed num
 Repository link to use after publication:
 
 ```text
-https://github.com/your-account/CSPPO-data
+https://github.com/lphust/CSPPO_data
 ```
 
 Replace `your-account` with the final GitHub account name after creating the repository.
